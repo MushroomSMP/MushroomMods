@@ -2303,13 +2303,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.0.0@jar",
+          "id": "net.msmp.mod:msmpmod:1.0.2@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 304322,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.1.jar",
-            "MD5": "03c852a79c600420e86aa2b603df80da"
+            "size": 312960,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.2.jar",
+            "MD5": "1b9715b6fd5d5a39a8df37180d382ce4"
           }
         },
         {
@@ -5131,9 +5131,9 @@
           "name": "createaddition-common.toml",
           "type": "File",
           "artifact": {
-            "size": 4446,
+            "size": 4457,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/createaddition-common.toml",
-            "MD5": "c156f51d0723c2b75e51cecdc6abfac0",
+            "MD5": "fd5f001e10d49962bd2da6ce0f6ff787",
             "path": "config/createaddition-common.toml"
           }
         },
