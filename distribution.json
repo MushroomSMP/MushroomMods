@@ -13,7 +13,7 @@
       "description": "MushroomSMP-MSMP Running Minecraft 1.20.1 (Forge v47.4.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "elgae-sp1-19.elgaehost.com.br:25708",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -8369,6 +8369,17 @@
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
             "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
             "path": "resourcepacks/Quark Programmer Art.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 102,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/servers.dat",
+            "MD5": "d96ea0e3a7f5d8717e6f59d73dbad323",
+            "path": "servers.dat"
           }
         }
       ]
