@@ -39,8 +39,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 16612,
-                "MD5": "6e9bd9bd26e3f23270e814011959c8a4",
+                "size": 16980,
+                "MD5": "5f4df7bcc9337a624535f8a797b54a88",
                 "url": "http://mushroomsmp.github.io/repo/versions/1.20.1-forge-47.4.4/1.20.1-forge-47.4.4.json"
               }
             },
@@ -3103,127 +3103,6 @@
           }
         },
         {
-          "id": "Deep Void Config.toml",
-          "name": "Deep Void Config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3019,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Deep%20Void%20Config.toml",
-            "MD5": "0dd6de1039e3bd8b5fe14e398f3240fe",
-            "path": "config/Deep Void Config.toml"
-          }
-        },
-        {
-          "id": "MouseTweaks.cfg",
-          "name": "MouseTweaks.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 135,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/MouseTweaks.cfg",
-            "MD5": "ff577ca09e989c07c056c7cdff465be3",
-            "path": "config/MouseTweaks.cfg"
-          }
-        },
-        {
-          "id": "aquamirae_cover.png",
-          "name": "aquamirae_cover.png",
-          "type": "File",
-          "artifact": {
-            "size": 137180,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/aquamirae_cover.png",
-            "MD5": "be6ca08f218140665fc8fe155015082b",
-            "path": "config/Obscuria/Data/aquamirae_cover.png"
-          }
-        },
-        {
-          "id": "loot_journal_cover.png",
-          "name": "loot_journal_cover.png",
-          "type": "File",
-          "artifact": {
-            "size": 32741,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/loot_journal_cover.png",
-            "MD5": "d211874e8493efff00faf9f05033f620",
-            "path": "config/Obscuria/Data/loot_journal_cover.png"
-          }
-        },
-        {
-          "id": "obscure_api_cover.png",
-          "name": "obscure_api_cover.png",
-          "type": "File",
-          "artifact": {
-            "size": 64456,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/obscure_api_cover.png",
-            "MD5": "8b355bf8844ae3d3ba4418e1914f8d80",
-            "path": "config/Obscuria/Data/obscure_api_cover.png"
-          }
-        },
-        {
-          "id": "aquamirae-client.toml",
-          "name": "aquamirae-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 200,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/aquamirae-client.toml",
-            "MD5": "83f295888292d5287a9c92a8840fedb0",
-            "path": "config/Obscuria/aquamirae-client.toml"
-          }
-        },
-        {
-          "id": "aquamirae-common.toml",
-          "name": "aquamirae-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2170,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/aquamirae-common.toml",
-            "MD5": "6310c1e6526e990ce83b89a76045e121",
-            "path": "config/Obscuria/aquamirae-common.toml"
-          }
-        },
-        {
-          "id": "obscure-api-client.toml",
-          "name": "obscure-api-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 359,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/obscure-api-client.toml",
-            "MD5": "469445e5c514f0c885e7bfa853cb513c",
-            "path": "config/Obscuria/obscure-api-client.toml"
-          }
-        },
-        {
-          "id": "TerramityCommonConfig.toml",
-          "name": "TerramityCommonConfig.toml",
-          "type": "File",
-          "artifact": {
-            "size": 930,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/TerramityCommonConfig.toml",
-            "MD5": "36ea8996b592c99395c5675da436fb70",
-            "path": "config/TerramityCommonConfig.toml"
-          }
-        },
-        {
-          "id": "WalkieTalkie.properties",
-          "name": "WalkieTalkie.properties",
-          "type": "File",
-          "artifact": {
-            "size": 427,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/WalkieTalkie.properties",
-            "MD5": "1b804e63c8a6a555a68dda6f4facb229",
-            "path": "config/WalkieTalkie.properties"
-          }
-        },
-        {
-          "id": "YungsCaveBiomes-forge-1_20_1.toml",
-          "name": "YungsCaveBiomes-forge-1_20_1.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2622,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/YungsCaveBiomes-forge-1_20_1.toml",
-            "MD5": "81537a9df962b8d2e0f5c44e95f3752e",
-            "path": "config/YungsCaveBiomes-forge-1_20_1.toml"
-          }
-        },
-        {
           "id": "client_side_mods.list",
           "name": "client_side_mods.list",
           "type": "File",
@@ -3272,9 +3151,9 @@
           "name": "client.json",
           "type": "File",
           "artifact": {
-            "size": 2902,
+            "size": 2954,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/ae2/client.json",
-            "MD5": "8908295473ac007e0b028f7f8fcae97b",
+            "MD5": "06464f309070895e72fb1296f02cbf08",
             "path": "config/ae2/client.json"
           }
         },
@@ -3283,9 +3162,9 @@
           "name": "common.json",
           "type": "File",
           "artifact": {
-            "size": 5277,
+            "size": 5399,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/ae2/common.json",
-            "MD5": "27a17f98f8e6f526c3c447e6086c5244",
+            "MD5": "b47b46fcae1bef44a01b6d28873d31d2",
             "path": "config/ae2/common.json"
           }
         },
@@ -3327,9 +3206,9 @@
           "name": "abyssal_chasm.json",
           "type": "File",
           "artifact": {
-            "size": 272,
+            "size": 291,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/abyssal_chasm.json",
-            "MD5": "e2381ab2cc691c9380e20047894f2e92",
+            "MD5": "7a12aff4a109617bbf111c2552c023e4",
             "path": "config/alexscaves_biome_generation/abyssal_chasm.json"
           }
         },
@@ -3338,9 +3217,9 @@
           "name": "candy_cavity.json",
           "type": "File",
           "artifact": {
-            "size": 227,
+            "size": 242,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/candy_cavity.json",
-            "MD5": "83ee4999c8084d79129f0d8de26feadf",
+            "MD5": "2d886c6e8cbfd2667831053aaf62f832",
             "path": "config/alexscaves_biome_generation/candy_cavity.json"
           }
         },
@@ -3349,9 +3228,9 @@
           "name": "forlorn_hollows.json",
           "type": "File",
           "artifact": {
-            "size": 226,
+            "size": 241,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/forlorn_hollows.json",
-            "MD5": "cb3ff6dc8f527e3ce4f20cf2615c194f",
+            "MD5": "a079a367ce085cd06cd14b3019f81255",
             "path": "config/alexscaves_biome_generation/forlorn_hollows.json"
           }
         },
@@ -3360,9 +3239,9 @@
           "name": "magnetic_caves.json",
           "type": "File",
           "artifact": {
-            "size": 226,
+            "size": 241,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/magnetic_caves.json",
-            "MD5": "48aba76fb94fa1f7f24e3f6f4b1acd3f",
+            "MD5": "75e529db8aefeb3f77f500b197e936b6",
             "path": "config/alexscaves_biome_generation/magnetic_caves.json"
           }
         },
@@ -3371,9 +3250,9 @@
           "name": "primordial_caves.json",
           "type": "File",
           "artifact": {
-            "size": 227,
+            "size": 242,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/primordial_caves.json",
-            "MD5": "700aa5a9fbdebeab8346509259372a27",
+            "MD5": "d79d5f9ac2125d9bb62e9cae2d71dd0f",
             "path": "config/alexscaves_biome_generation/primordial_caves.json"
           }
         },
@@ -3382,9 +3261,9 @@
           "name": "toxic_caves.json",
           "type": "File",
           "artifact": {
-            "size": 226,
+            "size": 241,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexscaves_biome_generation/toxic_caves.json",
-            "MD5": "6b2614e0035375fb4a0c74190658db7d",
+            "MD5": "16c1b4e1429309965e75a69faa7a03f9",
             "path": "config/alexscaves_biome_generation/toxic_caves.json"
           }
         },
@@ -3393,9 +3272,9 @@
           "name": "alligator_snapping_turtle_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 754,
+            "size": 795,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
-            "MD5": "e880e0c7e38986fb1f7a8885a892b0fc",
+            "MD5": "0ab569750e705aa5bd3ca4cdf5cd232e",
             "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
           }
         },
@@ -3404,9 +3283,9 @@
           "name": "anaconda_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1036,
+            "size": 1093,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
-            "MD5": "74d2b1bc857e9acb8321f296567a8f7f",
+            "MD5": "cbaedfc3cf769d6621ffb50425c47445",
             "path": "config/alexsmobs/anaconda_spawns.json"
           }
         },
@@ -3415,9 +3294,9 @@
           "name": "anteater_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1166,
+            "size": 1228,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/anteater_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "MD5": "55e9e141eb2ab67fa7f3f272f1864171",
             "path": "config/alexsmobs/anteater_spawns.json"
           }
         },
@@ -3426,9 +3305,9 @@
           "name": "bald_eagle_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 2723,
+            "size": 2869,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
-            "MD5": "dd9229ac98bbf83a1309d4b1e3770fd5",
+            "MD5": "ec2ab198b5a4425b5cc0d7d4151b9bad",
             "path": "config/alexsmobs/bald_eagle_spawns.json"
           }
         },
@@ -3437,9 +3316,9 @@
           "name": "banana_slug_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1697,
+            "size": 1787,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
-            "MD5": "6aec0b8dd4904343a50e7fb0a37b2912",
+            "MD5": "363563833d83f4a9a62d0971ee6a5953",
             "path": "config/alexsmobs/banana_slug_spawns.json"
           }
         },
@@ -3448,9 +3327,9 @@
           "name": "bison_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1761,
+            "size": 1856,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/bison_spawns.json",
-            "MD5": "729766841964832662fb610b6a661dc4",
+            "MD5": "fe81f6aecc37019c57d114ec1b6a2457",
             "path": "config/alexsmobs/bison_spawns.json"
           }
         },
@@ -3459,9 +3338,9 @@
           "name": "blobfish_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 146,
+            "size": 156,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "MD5": "51105fa2b73f92b1f34942b5396b0053",
             "path": "config/alexsmobs/blobfish_spawns.json"
           }
         },
@@ -3470,9 +3349,9 @@
           "name": "blue_jay_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 4020,
+            "size": 4234,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
-            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "MD5": "eb232e6c0bdccc04aa127e2579d3eb79",
             "path": "config/alexsmobs/blue_jay_spawns.json"
           }
         },
@@ -3481,9 +3360,9 @@
           "name": "bone_serpent_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 257,
+            "size": 272,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
-            "MD5": "7f0b198410364ba04743be1a24f901db",
+            "MD5": "42b30a8a753df3ac11bc7de53171dd21",
             "path": "config/alexsmobs/bone_serpent_spawns.json"
           }
         },
@@ -3492,9 +3371,9 @@
           "name": "bunfungus_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 486,
+            "size": 513,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
-            "MD5": "e585908f8d3914a77836461f2f136848",
+            "MD5": "8ef6a10cfe650a86261c31976577e2e8",
             "path": "config/alexsmobs/bunfungus_spawns.json"
           }
         },
@@ -3503,9 +3382,9 @@
           "name": "cachalot_whale_beached_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 642,
+            "size": 678,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
-            "MD5": "b779f228a334a5be8eaa5f845664105c",
+            "MD5": "a8949514548fd40b8c00a0aa5f4de41a",
             "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
           }
         },
@@ -3514,9 +3393,9 @@
           "name": "cachalot_whale_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 893,
+            "size": 941,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
-            "MD5": "53158516acce1c7ce2d05e0a61ff5965",
+            "MD5": "2273849cb31d45265abbafe20758b9e2",
             "path": "config/alexsmobs/cachalot_whale_spawns.json"
           }
         },
@@ -3525,9 +3404,9 @@
           "name": "caiman_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 291,
+            "size": 308,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/caiman_spawns.json",
-            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "MD5": "d3e0a5d04d035bd331727a316ee406ac",
             "path": "config/alexsmobs/caiman_spawns.json"
           }
         },
@@ -3536,9 +3415,9 @@
           "name": "capuchin_monkey_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1184,
+            "size": 1248,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
-            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
+            "MD5": "e6c4c6e6c9119241c8d1d02c5726df74",
             "path": "config/alexsmobs/capuchin_monkey_spawns.json"
           }
         },
@@ -3547,9 +3426,9 @@
           "name": "catfish_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1097,
+            "size": 1155,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/catfish_spawns.json",
-            "MD5": "f0234087612d8035344fbfb634cebfa9",
+            "MD5": "edf42bd9ffec07d61ffdd746749f3d55",
             "path": "config/alexsmobs/catfish_spawns.json"
           }
         },
@@ -3558,9 +3437,9 @@
           "name": "cave_centipede_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 2200,
+            "size": 2314,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
-            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "MD5": "5e9265afc69dfd2ce021766f4179067d",
             "path": "config/alexsmobs/cave_centipede_spawns.json"
           }
         },
@@ -3569,9 +3448,9 @@
           "name": "cockroach_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 2085,
+            "size": 2194,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
-            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "MD5": "485465600acfc31db9f0f4ebd6a6e32a",
             "path": "config/alexsmobs/cockroach_spawns.json"
           }
         },
@@ -3580,9 +3459,9 @@
           "name": "comb_jelly_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 414,
+            "size": 438,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
-            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
+            "MD5": "a5145a43af7f5ad289ab3d464b5f3f6b",
             "path": "config/alexsmobs/comb_jelly_spawns.json"
           }
         },
@@ -3591,9 +3470,9 @@
           "name": "cosmaw_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 371,
+            "size": 391,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
-            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
+            "MD5": "c24bc593b46ced373b92503777f66580",
             "path": "config/alexsmobs/cosmaw_spawns.json"
           }
         },
@@ -3602,9 +3481,9 @@
           "name": "cosmic_cod_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 139,
+            "size": 149,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
-            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
+            "MD5": "e4fa8580636f8bf8073153266ec9966a",
             "path": "config/alexsmobs/cosmic_cod_spawns.json"
           }
         },
@@ -3613,9 +3492,9 @@
           "name": "crimson_mosquito_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 785,
+            "size": 828,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
-            "MD5": "0c095c6657c6df75653ab9a0b049b4e1",
+            "MD5": "93612f387afa2b04de496da0d3c91009",
             "path": "config/alexsmobs/crimson_mosquito_spawns.json"
           }
         },
@@ -3624,9 +3503,9 @@
           "name": "crocodile_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1007,
+            "size": 1064,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
-            "MD5": "062f820f53eee3c3a4eed7621a4d96c3",
+            "MD5": "d95b2d45e756f987c906fa554917f6a3",
             "path": "config/alexsmobs/crocodile_spawns.json"
           }
         },
@@ -3635,9 +3514,9 @@
           "name": "crow_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 5146,
+            "size": 5421,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/crow_spawns.json",
-            "MD5": "607a09f65c8023448ad7828e29bde4e6",
+            "MD5": "27eb8f9d47d876412729751f00a415f9",
             "path": "config/alexsmobs/crow_spawns.json"
           }
         },
@@ -3646,9 +3525,9 @@
           "name": "devils_hole_pupfish_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 145,
+            "size": 155,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
-            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "MD5": "e595ec53d0e9590027e9a4b7a7719c81",
             "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
           }
         },
@@ -3657,9 +3536,9 @@
           "name": "dropbear_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 403,
+            "size": 425,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
-            "MD5": "95aa6694d6dd2f14fcfcedc28f5698e9",
+            "MD5": "7c23c7ca855c283d30da9911a956612b",
             "path": "config/alexsmobs/dropbear_spawns.json"
           }
         },
@@ -3668,9 +3547,9 @@
           "name": "elephant_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1163,
+            "size": 1227,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/elephant_spawns.json",
-            "MD5": "1032996d6a2cac873766f7a443d44810",
+            "MD5": "035f1428a0626451dcbf79304f2099cd",
             "path": "config/alexsmobs/elephant_spawns.json"
           }
         },
@@ -3679,9 +3558,9 @@
           "name": "emu_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1661,
+            "size": 1751,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/emu_spawns.json",
-            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "MD5": "9277540b17331f7a03091cf559223daf",
             "path": "config/alexsmobs/emu_spawns.json"
           }
         },
@@ -3690,9 +3569,9 @@
           "name": "endergrade_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 250,
+            "size": 265,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
-            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "MD5": "61137b5cc20c56b94a284e01a43bd74b",
             "path": "config/alexsmobs/endergrade_spawns.json"
           }
         },
@@ -3701,9 +3580,9 @@
           "name": "enderiophage_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 603,
+            "size": 633,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
-            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
+            "MD5": "ffb40fb397b48415bbc8163ecec8cf81",
             "path": "config/alexsmobs/enderiophage_spawns.json"
           }
         },
@@ -3712,9 +3591,9 @@
           "name": "farseer.json",
           "type": "File",
           "artifact": {
-            "size": 266,
+            "size": 281,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/farseer.json",
-            "MD5": "337b5b31ce112b2c614749d2e1047254",
+            "MD5": "f31eb8cfb03756a30d0e50cb84f4c24c",
             "path": "config/alexsmobs/farseer.json"
           }
         },
@@ -3723,21 +3602,10 @@
           "name": "flutter_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 147,
+            "size": 157,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/flutter_spawns.json",
-            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "MD5": "64171d8de7264a31cf878a7566706bdb",
             "path": "config/alexsmobs/flutter_spawns.json"
-          }
-        },
-        {
-          "id": "fly_spawns.json",
-          "name": "fly_spawns.json",
-          "type": "File",
-          "artifact": {
-            "size": 145,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/fly_spawns.json",
-            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
-            "path": "config/alexsmobs/fly_spawns.json"
           }
         },
         {
@@ -3745,10 +3613,21 @@
           "name": "flying_fish_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 716,
+            "size": 751,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
-            "MD5": "7bf21cd1ccc1499470e52d91402a899f",
+            "MD5": "bcde84c4a6dda956f667cf186a2eb252",
             "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 155,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/fly_spawns.json",
+            "MD5": "e595ec53d0e9590027e9a4b7a7719c81",
+            "path": "config/alexsmobs/fly_spawns.json"
           }
         },
         {
@@ -3756,9 +3635,9 @@
           "name": "frilled_shark_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 146,
+            "size": 156,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "MD5": "51105fa2b73f92b1f34942b5396b0053",
             "path": "config/alexsmobs/frilled_shark_spawns.json"
           }
         },
@@ -3767,9 +3646,9 @@
           "name": "froststalker_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 934,
+            "size": 986,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
-            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
+            "MD5": "2b5d7169252346b450be741d5f7e0b46",
             "path": "config/alexsmobs/froststalker_spawns.json"
           }
         },
@@ -3778,9 +3657,9 @@
           "name": "gazelle_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1050,
+            "size": 1109,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
-            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "MD5": "6e32f987d6ea211176b745192dddb7d0",
             "path": "config/alexsmobs/gazelle_spawns.json"
           }
         },
@@ -3789,9 +3668,9 @@
           "name": "gelada_monkey_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1001,
+            "size": 1056,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
-            "MD5": "c229e44c5b5bd924b2449149c1fabac7",
+            "MD5": "319c21c5191613b2092855785957a1cc",
             "path": "config/alexsmobs/gelada_monkey_spawns.json"
           }
         },
@@ -3800,9 +3679,9 @@
           "name": "giant_squid_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 146,
+            "size": 156,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
-            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "MD5": "51105fa2b73f92b1f34942b5396b0053",
             "path": "config/alexsmobs/giant_squid_spawns.json"
           }
         },
@@ -3811,9 +3690,9 @@
           "name": "gorilla_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1053,
+            "size": 1110,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
-            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
+            "MD5": "0eedc361ab37ba161f71982bce72447c",
             "path": "config/alexsmobs/gorilla_spawns.json"
           }
         },
@@ -3822,9 +3701,9 @@
           "name": "grizzly_bear_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 4020,
+            "size": 4234,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
-            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "MD5": "eb232e6c0bdccc04aa127e2579d3eb79",
             "path": "config/alexsmobs/grizzly_bear_spawns.json"
           }
         },
@@ -3833,9 +3712,9 @@
           "name": "guster_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1132,
+            "size": 1192,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/guster_spawns.json",
-            "MD5": "9f7fac3c24c356a767bce153106054dd",
+            "MD5": "0064be5b971c8a9f788358daf551266d",
             "path": "config/alexsmobs/guster_spawns.json"
           }
         },
@@ -3844,9 +3723,9 @@
           "name": "hammerhead_shark_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 254,
+            "size": 269,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
-            "MD5": "3e1c6fd6a63f92c5784cd66565dfb1f7",
+            "MD5": "a79f6b5d0c9aa0b64cc1518e5f87e485",
             "path": "config/alexsmobs/hammerhead_shark_spawns.json"
           }
         },
@@ -3855,9 +3734,9 @@
           "name": "hummingbird_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 3029,
+            "size": 3193,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
-            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
+            "MD5": "f28abeefbc00b8971234bac163b6e082",
             "path": "config/alexsmobs/hummingbird_spawns.json"
           }
         },
@@ -3866,9 +3745,9 @@
           "name": "jerboa_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1252,
+            "size": 1319,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "MD5": "88b5a6e45461a3ba8b9872aafcee5036",
             "path": "config/alexsmobs/jerboa_spawns.json"
           }
         },
@@ -3877,9 +3756,9 @@
           "name": "kangaroo_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1661,
+            "size": 1751,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
-            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "MD5": "9277540b17331f7a03091cf559223daf",
             "path": "config/alexsmobs/kangaroo_spawns.json"
           }
         },
@@ -3888,9 +3767,9 @@
           "name": "komodo_dragon_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 775,
+            "size": 818,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
-            "MD5": "bb0e841a9cf2784c27209ab46af2ab58",
+            "MD5": "ad23336964eba887bcf445ddafdf7c5b",
             "path": "config/alexsmobs/komodo_dragon_spawns.json"
           }
         },
@@ -3899,9 +3778,9 @@
           "name": "laviathan_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 142,
+            "size": 152,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
-            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "MD5": "14a67d63a2dd4278820b23037554c41e",
             "path": "config/alexsmobs/laviathan_spawns.json"
           }
         },
@@ -3910,9 +3789,9 @@
           "name": "leafcutter_anthill_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1166,
+            "size": 1228,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "MD5": "55e9e141eb2ab67fa7f3f272f1864171",
             "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
           }
         },
@@ -3921,9 +3800,9 @@
           "name": "lobster_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 398,
+            "size": 422,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/lobster_spawns.json",
-            "MD5": "3284cadc1438c85425a3621a016e6eba",
+            "MD5": "971e569d4da78166e84f99a8368d98a6",
             "path": "config/alexsmobs/lobster_spawns.json"
           }
         },
@@ -3932,9 +3811,9 @@
           "name": "maned_wolf_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1037,
+            "size": 1094,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
-            "MD5": "c21feac193fa689955ac90f659e1f0c2",
+            "MD5": "445c8b79029a661bf8fab7e7500c0568",
             "path": "config/alexsmobs/maned_wolf_spawns.json"
           }
         },
@@ -3943,21 +3822,10 @@
           "name": "mantis_shrimp_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 385,
+            "size": 407,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
-            "MD5": "c0a4157361a392c8a4d4e32d95bcc46f",
+            "MD5": "e264510fee4cd72c459e2f06f7d367d9",
             "path": "config/alexsmobs/mantis_shrimp_spawns.json"
-          }
-        },
-        {
-          "id": "mimic_octopus_spawns.json",
-          "name": "mimic_octopus_spawns.json",
-          "type": "File",
-          "artifact": {
-            "size": 373,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
-            "MD5": "468f301a2a863dc3c56c0dffc967fb73",
-            "path": "config/alexsmobs/mimic_octopus_spawns.json"
           }
         },
         {
@@ -3965,10 +3833,21 @@
           "name": "mimicube_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 365,
+            "size": 385,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
-            "MD5": "5dfd54d2860bbecb3d63d3a0cbc42752",
+            "MD5": "2d614b8fea9a2d3d3bcc39e2d096e5fc",
             "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 393,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "MD5": "3a7ef42cf675cff2f4a206a7f530967d",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
           }
         },
         {
@@ -3976,9 +3855,9 @@
           "name": "moose_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 2291,
+            "size": 2412,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/moose_spawns.json",
-            "MD5": "9352df8e11cc9d6c49756868320ff3bb",
+            "MD5": "c0e9b971d63fbb9bba6171c2826f6140",
             "path": "config/alexsmobs/moose_spawns.json"
           }
         },
@@ -3987,9 +3866,9 @@
           "name": "mudskipper_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 291,
+            "size": 308,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
-            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "MD5": "d3e0a5d04d035bd331727a316ee406ac",
             "path": "config/alexsmobs/mudskipper_spawns.json"
           }
         },
@@ -3998,9 +3877,9 @@
           "name": "mungus_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 486,
+            "size": 513,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/mungus_spawns.json",
-            "MD5": "e585908f8d3914a77836461f2f136848",
+            "MD5": "8ef6a10cfe650a86261c31976577e2e8",
             "path": "config/alexsmobs/mungus_spawns.json"
           }
         },
@@ -4009,9 +3888,9 @@
           "name": "murmur.json",
           "type": "File",
           "artifact": {
-            "size": 2200,
+            "size": 2314,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/murmur.json",
-            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "MD5": "5e9265afc69dfd2ce021766f4179067d",
             "path": "config/alexsmobs/murmur.json"
           }
         },
@@ -4020,9 +3899,9 @@
           "name": "orca_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 255,
+            "size": 270,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/orca_spawns.json",
-            "MD5": "7c9a514102d327b8d9ba16b19a991049",
+            "MD5": "b9804fb877f0810284bc6a951d7aca3c",
             "path": "config/alexsmobs/orca_spawns.json"
           }
         },
@@ -4031,9 +3910,9 @@
           "name": "platypus_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 625,
+            "size": 659,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/platypus_spawns.json",
-            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "MD5": "2de89a9ec0fb03ff4d27de0409c073e7",
             "path": "config/alexsmobs/platypus_spawns.json"
           }
         },
@@ -4042,9 +3921,9 @@
           "name": "potoo_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 148,
+            "size": 158,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/potoo_spawns.json",
-            "MD5": "d1511fa5b0562676dab091599bc838a2",
+            "MD5": "5fee66376155bf22ae716ff966e9a20e",
             "path": "config/alexsmobs/potoo_spawns.json"
           }
         },
@@ -4053,9 +3932,9 @@
           "name": "raccoon_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 3712,
+            "size": 3910,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
-            "MD5": "ef2fd8cf69fc21a78c45e79c1a1bf5a7",
+            "MD5": "10850f52e55d952512e506523450c46e",
             "path": "config/alexsmobs/raccoon_spawns.json"
           }
         },
@@ -4064,9 +3943,9 @@
           "name": "rain_frog_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1252,
+            "size": 1319,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "MD5": "88b5a6e45461a3ba8b9872aafcee5036",
             "path": "config/alexsmobs/rain_frog_spawns.json"
           }
         },
@@ -4075,9 +3954,9 @@
           "name": "rattlesnake_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1646,
+            "size": 1736,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
-            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "MD5": "bc7493e0d45e96a0147bd984acaef05c",
             "path": "config/alexsmobs/rattlesnake_spawns.json"
           }
         },
@@ -4086,9 +3965,9 @@
           "name": "rhinoceros_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1050,
+            "size": 1109,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
-            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "MD5": "6e32f987d6ea211176b745192dddb7d0",
             "path": "config/alexsmobs/rhinoceros_spawns.json"
           }
         },
@@ -4097,9 +3976,9 @@
           "name": "roadrunner_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1646,
+            "size": 1736,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
-            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "MD5": "bc7493e0d45e96a0147bd984acaef05c",
             "path": "config/alexsmobs/roadrunner_spawns.json"
           }
         },
@@ -4108,9 +3987,9 @@
           "name": "rocky_roller_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 673,
+            "size": 709,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
-            "MD5": "7f40733890dcc5279c2addea737b4b80",
+            "MD5": "050f4c82dbf28a570caaec846eb794ff",
             "path": "config/alexsmobs/rocky_roller_spawns.json"
           }
         },
@@ -4119,9 +3998,9 @@
           "name": "seagull_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1296,
+            "size": 1367,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/seagull_spawns.json",
-            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
+            "MD5": "5c30c3af9a091426e56885a6de4a4e34",
             "path": "config/alexsmobs/seagull_spawns.json"
           }
         },
@@ -4130,9 +4009,9 @@
           "name": "seal_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 877,
+            "size": 925,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/seal_spawns.json",
-            "MD5": "001c3ef108fd4fa9766fc80441edeb04",
+            "MD5": "1ced405a0d062c39bb7d29f3df2935bb",
             "path": "config/alexsmobs/seal_spawns.json"
           }
         },
@@ -4141,9 +4020,9 @@
           "name": "shoebill_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 623,
+            "size": 657,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
-            "MD5": "7e9b29c6eba19484a234ee300f2dea69",
+            "MD5": "9d6c19c07252fad32dc35a855d0d1249",
             "path": "config/alexsmobs/shoebill_spawns.json"
           }
         },
@@ -4152,9 +4031,9 @@
           "name": "skelewag_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 374,
+            "size": 394,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
-            "MD5": "b848bd81bc3b313dba92f2743bc27643",
+            "MD5": "fe6134465b726def95d8aded00279abd",
             "path": "config/alexsmobs/skelewag_spawns.json"
           }
         },
@@ -4163,9 +4042,9 @@
           "name": "skreecher.json",
           "type": "File",
           "artifact": {
-            "size": 276,
+            "size": 291,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/skreecher.json",
-            "MD5": "cf0d7ac8c8ec5f67d540efe79f2f2084",
+            "MD5": "bc1d21ae7fb5169e9d80294c00dda924",
             "path": "config/alexsmobs/skreecher.json"
           }
         },
@@ -4174,9 +4053,9 @@
           "name": "skunk_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 2037,
+            "size": 2144,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/skunk_spawns.json",
-            "MD5": "e077fe3ab2315f937483c66f95ece589",
+            "MD5": "265c2c613ee70f8b86dcc360a1d5de80",
             "path": "config/alexsmobs/skunk_spawns.json"
           }
         },
@@ -4185,9 +4064,9 @@
           "name": "snow_leopard_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1808,
+            "size": 1905,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
-            "MD5": "54323941affc9be9f7a507f68dbd4ee7",
+            "MD5": "f8b2530c26c8612b0055bbf796439955",
             "path": "config/alexsmobs/snow_leopard_spawns.json"
           }
         },
@@ -4196,9 +4075,9 @@
           "name": "soul_vulture_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 523,
+            "size": 552,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
-            "MD5": "4121b1b2b71908c6db3f6f2a8c53059a",
+            "MD5": "f8ed8fa0ef2c1e4e3068df15aa90601c",
             "path": "config/alexsmobs/soul_vulture_spawns.json"
           }
         },
@@ -4207,9 +4086,9 @@
           "name": "spectre_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 250,
+            "size": 265,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/spectre_spawns.json",
-            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "MD5": "61137b5cc20c56b94a284e01a43bd74b",
             "path": "config/alexsmobs/spectre_spawns.json"
           }
         },
@@ -4218,9 +4097,9 @@
           "name": "straddler_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 664,
+            "size": 700,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/straddler_spawns.json",
-            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "MD5": "a998e7762408d84fdd044d3205cd7a1a",
             "path": "config/alexsmobs/straddler_spawns.json"
           }
         },
@@ -4229,9 +4108,9 @@
           "name": "stradpole_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 664,
+            "size": 700,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
-            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "MD5": "a998e7762408d84fdd044d3205cd7a1a",
             "path": "config/alexsmobs/stradpole_spawns.json"
           }
         },
@@ -4240,9 +4119,9 @@
           "name": "sugar_glider_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 418,
+            "size": 442,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
-            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
+            "MD5": "532f593c0d003cfafb698ef990e6e0e4",
             "path": "config/alexsmobs/sugar_glider_spawns.json"
           }
         },
@@ -4251,9 +4130,9 @@
           "name": "sunbird_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 3925,
+            "size": 4136,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
-            "MD5": "147fdf357f3478c40b5b7481569c6c07",
+            "MD5": "f75c92e8ef4ec1eb7f52b5e0db3fabbc",
             "path": "config/alexsmobs/sunbird_spawns.json"
           }
         },
@@ -4262,9 +4141,9 @@
           "name": "tarantula_hawk_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1252,
+            "size": 1319,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "MD5": "88b5a6e45461a3ba8b9872aafcee5036",
             "path": "config/alexsmobs/tarantula_hawk_spawns.json"
           }
         },
@@ -4273,9 +4152,9 @@
           "name": "tasmanian_devil_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1908,
+            "size": 2008,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
-            "MD5": "2234aec1f09e2e0e5d202cfbeb9b283b",
+            "MD5": "d24ad453631ae44ec8570e0553e12d2b",
             "path": "config/alexsmobs/tasmanian_devil_spawns.json"
           }
         },
@@ -4284,9 +4163,9 @@
           "name": "terrapin_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 625,
+            "size": 659,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
-            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "MD5": "2de89a9ec0fb03ff4d27de0409c073e7",
             "path": "config/alexsmobs/terrapin_spawns.json"
           }
         },
@@ -4295,9 +4174,9 @@
           "name": "tiger_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1209,
+            "size": 1275,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/tiger_spawns.json",
-            "MD5": "8e7708606954a64a9f8648585c8a4a74",
+            "MD5": "64446413a5564d746517ddc2c708d0bc",
             "path": "config/alexsmobs/tiger_spawns.json"
           }
         },
@@ -4306,9 +4185,9 @@
           "name": "toucan_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1166,
+            "size": 1228,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/toucan_spawns.json",
-            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "MD5": "55e9e141eb2ab67fa7f3f272f1864171",
             "path": "config/alexsmobs/toucan_spawns.json"
           }
         },
@@ -4317,9 +4196,9 @@
           "name": "triops_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 1252,
+            "size": 1319,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/triops_spawns.json",
-            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "MD5": "88b5a6e45461a3ba8b9872aafcee5036",
             "path": "config/alexsmobs/triops_spawns.json"
           }
         },
@@ -4328,9 +4207,9 @@
           "name": "tusklin_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 882,
+            "size": 930,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
-            "MD5": "502bb996e36a50b977acb73e29e975df",
+            "MD5": "1eb614757347cd751f90efb5f46e036c",
             "path": "config/alexsmobs/tusklin_spawns.json"
           }
         },
@@ -4339,9 +4218,9 @@
           "name": "underminer.json",
           "type": "File",
           "artifact": {
-            "size": 2085,
+            "size": 2194,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/underminer.json",
-            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "MD5": "485465600acfc31db9f0f4ebd6a6e32a",
             "path": "config/alexsmobs/underminer.json"
           }
         },
@@ -4350,9 +4229,9 @@
           "name": "void_worm_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 18,
+            "size": 20,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
-            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "MD5": "aba1f48c831f7568a187b946061672a6",
             "path": "config/alexsmobs/void_worm_spawns.json"
           }
         },
@@ -4361,9 +4240,9 @@
           "name": "warped_mosco_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 18,
+            "size": 20,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
-            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "MD5": "aba1f48c831f7568a187b946061672a6",
             "path": "config/alexsmobs/warped_mosco_spawns.json"
           }
         },
@@ -4372,9 +4251,9 @@
           "name": "warped_toad_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 661,
+            "size": 699,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
-            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
+            "MD5": "f713d2d3249fe17174d7862c94de862c",
             "path": "config/alexsmobs/warped_toad_spawns.json"
           }
         },
@@ -4394,9 +4273,9 @@
           "name": "alltheleaks.json",
           "type": "File",
           "artifact": {
-            "size": 104,
+            "size": 108,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/alltheleaks.json",
-            "MD5": "a7d6e1d8fb77f77f7def337269aeaaa2",
+            "MD5": "584eef43be5af9dc9c370454e508b5c1",
             "path": "config/alltheleaks.json"
           }
         },
@@ -4449,9 +4328,9 @@
           "name": "client.json5",
           "type": "File",
           "artifact": {
-            "size": 551,
+            "size": 565,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/client.json5",
-            "MD5": "c421cf24deff6c2774366fa9b6de3020",
+            "MD5": "6860305532942520e440f4e35d22ce00",
             "path": "config/artifacts/client.json5"
           }
         },
@@ -4460,9 +4339,9 @@
           "name": "common.json5",
           "type": "File",
           "artifact": {
-            "size": 1584,
+            "size": 1619,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/common.json5",
-            "MD5": "216b978ab8314e1aecd0f6d475552b59",
+            "MD5": "59116c47d039f3683c4b9fbf8ddbe32a",
             "path": "config/artifacts/common.json5"
           }
         },
@@ -4471,9 +4350,9 @@
           "name": "anglers_hat.yaml",
           "type": "File",
           "artifact": {
-            "size": 2396,
+            "size": 2436,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/anglers_hat.yaml",
-            "MD5": "2bc62301ccb356951fcb0a41c371dfd9",
+            "MD5": "8f95b2c4b00214044b2d012623506aa7",
             "path": "config/artifacts/relics/anglers_hat.yaml"
           }
         },
@@ -4482,9 +4361,9 @@
           "name": "lucky_scarf.yaml",
           "type": "File",
           "artifact": {
-            "size": 2450,
+            "size": 2491,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/lucky_scarf.yaml",
-            "MD5": "a86cfe995ca557f0a0cf687fb429a57c",
+            "MD5": "19efd4e610495acf3cc37081bfae5dab",
             "path": "config/artifacts/relics/lucky_scarf.yaml"
           }
         },
@@ -4493,9 +4372,9 @@
           "name": "novelty_drinking_hat.yaml",
           "type": "File",
           "artifact": {
-            "size": 4214,
+            "size": 4281,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/novelty_drinking_hat.yaml",
-            "MD5": "09d41fb3aca702cbd3da6c0bcba5976d",
+            "MD5": "59b44ecc8f01b84ae35ce6f5701f0463",
             "path": "config/artifacts/relics/novelty_drinking_hat.yaml"
           }
         },
@@ -4504,9 +4383,9 @@
           "name": "plastic_drinking_hat.yaml",
           "type": "File",
           "artifact": {
-            "size": 4214,
+            "size": 4281,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/plastic_drinking_hat.yaml",
-            "MD5": "09d41fb3aca702cbd3da6c0bcba5976d",
+            "MD5": "59b44ecc8f01b84ae35ce6f5701f0463",
             "path": "config/artifacts/relics/plastic_drinking_hat.yaml"
           }
         },
@@ -4515,9 +4394,9 @@
           "name": "scarf_of_invisibility.yaml",
           "type": "File",
           "artifact": {
-            "size": 3892,
+            "size": 3951,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/scarf_of_invisibility.yaml",
-            "MD5": "08e37735d96be6960281adce9b07a39a",
+            "MD5": "87ced45ebbad493d04fadc9a98333fd9",
             "path": "config/artifacts/relics/scarf_of_invisibility.yaml"
           }
         },
@@ -4526,9 +4405,9 @@
           "name": "snorkel.yaml",
           "type": "File",
           "artifact": {
-            "size": 2399,
+            "size": 2439,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/snorkel.yaml",
-            "MD5": "10eb67d8f76ee2460ffa9a17c2afdb73",
+            "MD5": "4f4b15f026510b1918b9ff0629fb7981",
             "path": "config/artifacts/relics/snorkel.yaml"
           }
         },
@@ -4537,9 +4416,9 @@
           "name": "superstitious_hat.yaml",
           "type": "File",
           "artifact": {
-            "size": 2453,
+            "size": 2494,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/superstitious_hat.yaml",
-            "MD5": "dc18a20cafe7b24cebda5ae58a5b1388",
+            "MD5": "4b355b69dfaf5f1392003c2832cdd41e",
             "path": "config/artifacts/relics/superstitious_hat.yaml"
           }
         },
@@ -4548,9 +4427,9 @@
           "name": "villager_hat.yaml",
           "type": "File",
           "artifact": {
-            "size": 2326,
+            "size": 2365,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/artifacts/relics/villager_hat.yaml",
-            "MD5": "bc446b614b3349991f399ebf3d462824",
+            "MD5": "a79121c3eb7cbe1eed7ffae7d5dc4ec8",
             "path": "config/artifacts/relics/villager_hat.yaml"
           }
         },
@@ -4570,9 +4449,9 @@
           "name": "attributefix.json",
           "type": "File",
           "artifact": {
-            "size": 17143,
+            "size": 18070,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/attributefix.json",
-            "MD5": "c9b15b8e1e9c66cda3e5b9a5d76a40d1",
+            "MD5": "a03f9f93b4f753d5bb9497197369af67",
             "path": "config/attributefix.json"
           }
         },
@@ -4658,9 +4537,9 @@
           "name": "structure_settings.json5",
           "type": "File",
           "artifact": {
-            "size": 536,
+            "size": 558,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/betterarcheology_structures/structure_settings.json5",
-            "MD5": "3d089f727dd35f021728fc9299221c65",
+            "MD5": "94b54e100882460c06390192ced51c23",
             "path": "config/betterarcheology_structures/structure_settings.json5"
           }
         },
@@ -4669,9 +4548,9 @@
           "name": "structure_toggle.json5",
           "type": "File",
           "artifact": {
-            "size": 1007,
+            "size": 1045,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/betterarcheology_structures/structure_toggle.json5",
-            "MD5": "072fa1ea9d874dbffcbcf912c768432b",
+            "MD5": "45dec41db2d733c28e8f94fa429b6a0b",
             "path": "config/betterarcheology_structures/structure_toggle.json5"
           }
         },
@@ -4680,9 +4559,9 @@
           "name": "client.json5",
           "type": "File",
           "artifact": {
-            "size": 520,
+            "size": 535,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/bettercombat/client.json5",
-            "MD5": "0da5d5da7b36ba1bb50a2c4d6a19ff81",
+            "MD5": "c9f97642bf6caf85a6d6176e652dac44",
             "path": "config/bettercombat/client.json5"
           }
         },
@@ -4691,9 +4570,9 @@
           "name": "fallback_compatibility.json",
           "type": "File",
           "artifact": {
-            "size": 2995,
+            "size": 3110,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/bettercombat/fallback_compatibility.json",
-            "MD5": "cd6019eba788c56ca9a0b6f7a03a02c8",
+            "MD5": "addf8730e938bbedb76ef400be205d5b",
             "path": "config/bettercombat/fallback_compatibility.json"
           }
         },
@@ -4702,9 +4581,9 @@
           "name": "server.json5",
           "type": "File",
           "artifact": {
-            "size": 5169,
+            "size": 5261,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/bettercombat/server.json5",
-            "MD5": "cd6ae1becc14106e244859f529431211",
+            "MD5": "03d826f2b09c4256ca5e97d311b92e4e",
             "path": "config/bettercombat/server.json5"
           }
         },
@@ -4724,9 +4603,9 @@
           "name": "betterfpsdist.json",
           "type": "File",
           "artifact": {
-            "size": 698,
+            "size": 715,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/betterfpsdist.json",
-            "MD5": "d8063218ec7ee89ad6011c807a8cb07c",
+            "MD5": "f431f1d8e97c5be7cb2b3370e108551c",
             "path": "config/betterfpsdist.json"
           }
         },
@@ -4768,9 +4647,9 @@
           "name": "biome_toggles.json",
           "type": "File",
           "artifact": {
-            "size": 1999,
+            "size": 2063,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/biomesoplenty/biome_toggles.json",
-            "MD5": "ef74c4378e87db15c420c2d8435870b6",
+            "MD5": "ff5fcb8761699264ec150b9adef8d5bc",
             "path": "config/biomesoplenty/biome_toggles.json"
           }
         },
@@ -4790,9 +4669,9 @@
           "name": "mob_spawn.json",
           "type": "File",
           "artifact": {
-            "size": 62,
+            "size": 67,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/biomeswevegone/mob_spawn.json",
-            "MD5": "dbbf1c39291de3d47bb4d93c9a899076",
+            "MD5": "bebe5624d0eb007296da35387c728812",
             "path": "config/biomeswevegone/mob_spawn.json"
           }
         },
@@ -4801,9 +4680,9 @@
           "name": "trades.json",
           "type": "File",
           "artifact": {
-            "size": 639,
+            "size": 662,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/biomeswevegone/trades.json",
-            "MD5": "72787d919c96962faa48f4f4ffb78cf8",
+            "MD5": "89bae6c06c32b3f92ff4b9600f9d5a5d",
             "path": "config/biomeswevegone/trades.json"
           }
         },
@@ -4812,9 +4691,9 @@
           "name": "world_generation.json5",
           "type": "File",
           "artifact": {
-            "size": 2908,
+            "size": 2978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/biomeswevegone/world_generation.json5",
-            "MD5": "ee0522c142fe20f0d800f9fd154bd736",
+            "MD5": "34875f047775c60ee4b55e49a793ad94",
             "path": "config/biomeswevegone/world_generation.json5"
           }
         },
@@ -4867,9 +4746,9 @@
           "name": "braziliandelight.common.conf",
           "type": "File",
           "artifact": {
-            "size": 30,
+            "size": 31,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/braziliandelight.common.conf",
-            "MD5": "2e8bd7943a7e21dd937e4fd4f8e7ae49",
+            "MD5": "7c1b03e1ba57685739d8d47600aa3cac",
             "path": "config/braziliandelight.common.conf"
           }
         },
@@ -4911,9 +4790,9 @@
           "name": "amethyst_crab_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 147,
+            "size": 157,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/amethyst_crab_spawns.json",
-            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "MD5": "64171d8de7264a31cf878a7566706bdb",
             "path": "config/cataclysm/amethyst_crab_spawns.json"
           }
         },
@@ -4922,9 +4801,9 @@
           "name": "coral_golem_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/coral_golem_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/coral_golem_spawns.json"
           }
         },
@@ -4933,9 +4812,9 @@
           "name": "deepling_angler_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/deepling_angler_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/deepling_angler_spawns.json"
           }
         },
@@ -4944,9 +4823,9 @@
           "name": "deepling_brute_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/deepling_brute_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/deepling_brute_spawns.json"
           }
         },
@@ -4955,9 +4834,9 @@
           "name": "deepling_priest_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/deepling_priest_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/deepling_priest_spawns.json"
           }
         },
@@ -4966,9 +4845,9 @@
           "name": "deepling_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/deepling_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/deepling_spawns.json"
           }
         },
@@ -4977,9 +4856,9 @@
           "name": "deepling_warlock_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 926,
+            "size": 978,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/deepling_warlock_spawns.json",
-            "MD5": "b4068581f457b455233003dbcbfb52eb",
+            "MD5": "0d8c32d9ba7b35e6764e192992ce2000",
             "path": "config/cataclysm/deepling_warlock_spawns.json"
           }
         },
@@ -4988,9 +4867,9 @@
           "name": "koboleton_spawns.json",
           "type": "File",
           "artifact": {
-            "size": 474,
+            "size": 499,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cataclysm/koboleton_spawns.json",
-            "MD5": "1e376e1742f759bb96df81d7b003e610",
+            "MD5": "26aa482655de62fef46f77b6cb8cd232",
             "path": "config/cataclysm/koboleton_spawns.json"
           }
         },
@@ -5032,9 +4911,9 @@
           "name": "chloride-client.json",
           "type": "File",
           "artifact": {
-            "size": 1838,
+            "size": 1905,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/chloride-client.json",
-            "MD5": "3d572e086dd253facf194a71484789b7",
+            "MD5": "eb6ee15d2577c745e4184e0303207a32",
             "path": "config/chloride-client.json"
           }
         },
@@ -5065,9 +4944,9 @@
           "name": "client_config.json",
           "type": "File",
           "artifact": {
-            "size": 20,
+            "size": 22,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/com.yuushya/client_config.json",
-            "MD5": "5d9a5a048c724898c64bf0f6ae58b077",
+            "MD5": "09021d2211e0c722f8b2beedec2c9cb4",
             "path": "config/com.yuushya/client_config.json"
           }
         },
@@ -5076,9 +4955,9 @@
           "name": "client.json5",
           "type": "File",
           "artifact": {
-            "size": 251,
+            "size": 261,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/combatroll/client.json5",
-            "MD5": "c2a53d6d0b7c2805cd02bac9358c4912",
+            "MD5": "a99d13952bea1d7083b820aa5963bc89",
             "path": "config/combatroll/client.json5"
           }
         },
@@ -5087,9 +4966,9 @@
           "name": "enchantments.json",
           "type": "File",
           "artifact": {
-            "size": 396,
+            "size": 418,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/combatroll/enchantments.json",
-            "MD5": "ed7335d512cc2b9cf16bb5b5c057fb82",
+            "MD5": "59648eb964b1a18de1efa92f623f8f5a",
             "path": "config/combatroll/enchantments.json"
           }
         },
@@ -5098,9 +4977,9 @@
           "name": "hud_config.json",
           "type": "File",
           "artifact": {
-            "size": 120,
+            "size": 128,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/combatroll/hud_config.json",
-            "MD5": "d4be667ade47464cf038ef4d20840b8e",
+            "MD5": "c704fb375beb88ed0d25f6bbb8c8404b",
             "path": "config/combatroll/hud_config.json"
           }
         },
@@ -5109,9 +4988,9 @@
           "name": "server.json5",
           "type": "File",
           "artifact": {
-            "size": 1280,
+            "size": 1301,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/combatroll/server.json5",
-            "MD5": "0be540dcb7e363dca4dea7f2354ca8d6",
+            "MD5": "10bc5f67a252b8103e929560b82e1dea",
             "path": "config/combatroll/server.json5"
           }
         },
@@ -5131,9 +5010,9 @@
           "name": "connectivity.json",
           "type": "File",
           "artifact": {
-            "size": 1427,
+            "size": 1460,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/connectivity.json",
-            "MD5": "2784cbf8fb27ea1766decef5e5dad0a7",
+            "MD5": "e54e0a529a110cf0c5db588800ff894c",
             "path": "config/connectivity.json"
           }
         },
@@ -5175,9 +5054,9 @@
           "name": "announcement_config.json5",
           "type": "File",
           "artifact": {
-            "size": 362,
+            "size": 368,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/corgilib/announcement_config.json5",
-            "MD5": "81d4ada4723136ac63a4a44867f573ec",
+            "MD5": "4a3fc3a70a6a94309a857dc4c1a68b0d",
             "path": "config/corgilib/announcement_config.json5"
           }
         },
@@ -5219,9 +5098,9 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 671,
+            "size": 695,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cpm.json",
-            "MD5": "b363bca229df2843d302180782e580db",
+            "MD5": "2e51dc440c792db01b7c13ea916de1b4",
             "path": "config/cpm.json"
           }
         },
@@ -5248,17 +5127,6 @@
           }
         },
         {
-          "id": "create_connected-common.toml",
-          "name": "create_connected-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1715,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/create_connected-common.toml",
-            "MD5": "8f8584eecc0b6895d688b42183c82b87",
-            "path": "config/create_connected-common.toml"
-          }
-        },
-        {
           "id": "createaddition-common.toml",
           "name": "createaddition-common.toml",
           "type": "File",
@@ -5281,13 +5149,24 @@
           }
         },
         {
+          "id": "create_connected-common.toml",
+          "name": "create_connected-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1715,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/create_connected-common.toml",
+            "MD5": "8f8584eecc0b6895d688b42183c82b87",
+            "path": "config/create_connected-common.toml"
+          }
+        },
+        {
           "id": "minecraftED.json5",
           "name": "minecraftED.json5",
           "type": "File",
           "artifact": {
-            "size": 1476,
+            "size": 1550,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cristellib/minecraftED.json5",
-            "MD5": "e8605aa11b4296e023504703e592bd41",
+            "MD5": "8da648368f22612bd28d159a1e59125a",
             "path": "config/cristellib/minecraftED.json5"
           }
         },
@@ -5296,9 +5175,9 @@
           "name": "minecraftP.json5",
           "type": "File",
           "artifact": {
-            "size": 1752,
+            "size": 1847,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cristellib/minecraftP.json5",
-            "MD5": "1d8b9b72253a97231ff416174c2eb646",
+            "MD5": "21d56cc17fd52dc3cb4f1e4f5a018c67",
             "path": "config/cristellib/minecraftP.json5"
           }
         },
@@ -5318,9 +5197,9 @@
           "name": "cupboard.json",
           "type": "File",
           "artifact": {
-            "size": 1090,
+            "size": 1111,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/cupboard.json",
-            "MD5": "7725e2ad17f08b6221f0ecdeda137888",
+            "MD5": "be74225e1fd79c907996df91810c805e",
             "path": "config/cupboard.json"
           }
         },
@@ -5369,13 +5248,24 @@
           }
         },
         {
+          "id": "Deep Void Config.toml",
+          "name": "Deep Void Config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3019,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Deep%20Void%20Config.toml",
+            "MD5": "0dd6de1039e3bd8b5fe14e398f3240fe",
+            "path": "config/Deep Void Config.toml"
+          }
+        },
+        {
           "id": "deltaboxlib.common.conf",
           "name": "deltaboxlib.common.conf",
           "type": "File",
           "artifact": {
-            "size": 370,
+            "size": 382,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/deltaboxlib.common.conf",
-            "MD5": "885b7754cc6eb3539cf4caca5ff597f0",
+            "MD5": "96739f0621b601588bafa6e112387938",
             "path": "config/deltaboxlib.common.conf"
           }
         },
@@ -5428,9 +5318,9 @@
           "name": "dynamic_fps.json",
           "type": "File",
           "artifact": {
-            "size": 3,
+            "size": 4,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/dynamic_fps.json",
-            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "MD5": "c443b04d0fc26b0a5a4573a78e0082a1",
             "path": "config/dynamic_fps.json"
           }
         },
@@ -5659,9 +5549,9 @@
           "name": "embeddium-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 269,
+            "size": 275,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/embeddium-mixins.properties",
-            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "MD5": "8500a62c2fd4bc7bffc8ab58af2d82f0",
             "path": "config/embeddium-mixins.properties"
           }
         },
@@ -5670,9 +5560,9 @@
           "name": "embeddium-options.json",
           "type": "File",
           "artifact": {
-            "size": 846,
+            "size": 875,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/embeddium-options.json",
-            "MD5": "f40295214dffbb7cf0249d34dc0f5a02",
+            "MD5": "0cabf8b93e189fee2aa72fa24523c89f",
             "path": "config/embeddium-options.json"
           }
         },
@@ -5681,9 +5571,9 @@
           "name": "emotecraft.json",
           "type": "File",
           "artifact": {
-            "size": 1198,
+            "size": 1240,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/emotecraft.json",
-            "MD5": "b50a5ee15baeb2d5cbbf33dbbb172815",
+            "MD5": "9ff676d12fee4bc92ffed5862b94ffcb",
             "path": "config/emotecraft.json"
           }
         },
@@ -5692,9 +5582,9 @@
           "name": "emotecraft_emote_map.json",
           "type": "File",
           "artifact": {
-            "size": 117,
+            "size": 120,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/emotecraft_emote_map.json",
-            "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
+            "MD5": "d60456c6b69b5cc809b61530cef1c5df",
             "path": "config/emotecraft_emote_map.json"
           }
         },
@@ -5703,9 +5593,9 @@
           "name": "enchdesc.json",
           "type": "File",
           "artifact": {
-            "size": 189,
+            "size": 198,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/enchdesc.json",
-            "MD5": "1b3ec4850780b441c72be140fc73bce3",
+            "MD5": "26c56b330998e759b19a51b9489164a1",
             "path": "config/enchdesc.json"
           }
         },
@@ -5725,9 +5615,9 @@
           "name": "enhancedvisuals-client.json",
           "type": "File",
           "artifact": {
-            "size": 8145,
+            "size": 8555,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/enhancedvisuals-client.json",
-            "MD5": "1736f8cb246233af6df98492bb9b77e2",
+            "MD5": "2e9c77ed20662526fece4d7538108d9c",
             "path": "config/enhancedvisuals-client.json"
           }
         },
@@ -5736,10 +5626,21 @@
           "name": "enhancedvisuals.json",
           "type": "File",
           "artifact": {
-            "size": 429,
+            "size": 444,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/enhancedvisuals.json",
-            "MD5": "279f032a0748fb301202c6daebc84b83",
+            "MD5": "ff9bb7a76c4d2db09a21bacd6fab2bee",
             "path": "config/enhancedvisuals.json"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 1756,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/entityculling.json",
+            "MD5": "62d0dc469e2adc99f31cb0c3a19bfafc",
+            "path": "config/entityculling.json"
           }
         },
         {
@@ -5747,9 +5648,9 @@
           "name": "entity_model_features.json",
           "type": "File",
           "artifact": {
-            "size": 1115,
+            "size": 1145,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/entity_model_features.json",
-            "MD5": "2303f1f389426ed19f18c61bd68e169d",
+            "MD5": "76461745db099aa79c07ba3fcfa5138b",
             "path": "config/entity_model_features.json"
           }
         },
@@ -5758,21 +5659,10 @@
           "name": "entity_texture_features.json",
           "type": "File",
           "artifact": {
-            "size": 1420,
+            "size": 1459,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/entity_texture_features.json",
-            "MD5": "70bc0a7c3e75a25a9049facdc3a0a7ea",
+            "MD5": "a126986610033683a3d0f5f8c13b20d1",
             "path": "config/entity_texture_features.json"
-          }
-        },
-        {
-          "id": "entityculling.json",
-          "name": "entityculling.json",
-          "type": "File",
-          "artifact": {
-            "size": 1695,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/entityculling.json",
-            "MD5": "8917e1c51d03445e63b5537a3bd33429",
-            "path": "config/entityculling.json"
           }
         },
         {
@@ -5780,9 +5670,9 @@
           "name": "etf_warnings.json",
           "type": "File",
           "artifact": {
-            "size": 28,
+            "size": 30,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/etf_warnings.json",
-            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "MD5": "db146978b2e318257444e6415bd0b7e3",
             "path": "config/etf_warnings.json"
           }
         },
@@ -5901,21 +5791,10 @@
           "name": "audio_element_controller_metas.json",
           "type": "File",
           "artifact": {
-            "size": 109,
+            "size": 114,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/audio_element_controller_metas.json",
-            "MD5": "0c24b878e68cc79533b77f51e6c80ce7",
+            "MD5": "30efa63f431f9276f761456f0bb9e169",
             "path": "config/fancymenu/audio_element_controller_metas.json"
-          }
-        },
-        {
-          "id": "custom_gui_screens.txt",
-          "name": "custom_gui_screens.txt",
-          "type": "File",
-          "artifact": {
-            "size": 51,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
-            "MD5": "106e52948415f0879c53304f50783b28",
-            "path": "config/fancymenu/custom_gui_screens.txt"
           }
         },
         {
@@ -5923,9 +5802,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 200,
+            "size": 211,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "5de63aa346d4847fd966d09731817eb1",
+            "MD5": "5af92b34f4165d1fe0edeec946c95180",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -5934,9 +5813,9 @@
           "name": "join_multiplayer_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 17001,
+            "size": 17501,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customization/join_multiplayer_screen_layout.txt",
-            "MD5": "90ba7cd89bb2713beeab4d6dec177c3d",
+            "MD5": "d0f2d379fdc7cb98433d97c85719f0f5",
             "path": "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
           }
         },
@@ -5945,9 +5824,9 @@
           "name": "options_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 26860,
+            "size": 27645,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customization/options_screen_layout.txt",
-            "MD5": "d3a379d03e4160e30474738d673942f2",
+            "MD5": "ca5086b55a2ba42a9f140ae556938285",
             "path": "config/fancymenu/customization/options_screen_layout.txt"
           }
         },
@@ -5956,9 +5835,9 @@
           "name": "pause_screen_desable_layout_1.txt",
           "type": "File",
           "artifact": {
-            "size": 31333,
+            "size": 32225,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customization/pause_screen_desable_layout_1.txt",
-            "MD5": "b7545379ae9cc71641a51b8625ffad5f",
+            "MD5": "ae47ae7a1375880bfbed9eddda794c7e",
             "path": "config/fancymenu/customization/pause_screen_desable_layout_1.txt"
           }
         },
@@ -5967,9 +5846,9 @@
           "name": "pause_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 33609,
+            "size": 34564,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "66e112b8006da38b8025f1b80c3b925e",
+            "MD5": "75a8ff1449ec90fa1c71aa8e9df8a6b4",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -5978,10 +5857,21 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 48071,
+            "size": 49480,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "4ab02371d6d36eb06de4445164a864d1",
+            "MD5": "0fd6176b139f33dc4720b97387e51fe6",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "custom_gui_screens.txt",
+          "name": "custom_gui_screens.txt",
+          "type": "File",
+          "artifact": {
+            "size": 56,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "802c0c358270e92bcc23f686eba3544a",
+            "path": "config/fancymenu/custom_gui_screens.txt"
           }
         },
         {
@@ -5989,9 +5879,9 @@
           "name": "element_layer_control.lewidget",
           "type": "File",
           "artifact": {
-            "size": 197,
+            "size": 209,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
-            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
+            "MD5": "a3077faf7fd4ae7b53778aef6fc8feb1",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -6000,9 +5890,9 @@
           "name": "legacy_checklist.txt",
           "type": "File",
           "artifact": {
-            "size": 42,
+            "size": 44,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/legacy_checklist.txt",
-            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
+            "MD5": "3132cbafa7236535a12dec46f02fa155",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
         },
@@ -6011,9 +5901,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2098,
+            "size": 2185,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "fd8eca9a8638a2123580ce05cde14a74",
+            "MD5": "1c6524348a870dfc2006c559db97a2f4",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -6022,9 +5912,9 @@
           "name": "dark.json",
           "type": "File",
           "artifact": {
-            "size": 4133,
+            "size": 4313,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/ui_themes/dark.json",
-            "MD5": "3981f37966b00a80e31aac89169be280",
+            "MD5": "eb2f5305e29f04ab5bf4d1cf12d9bb48",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
         },
@@ -6033,9 +5923,9 @@
           "name": "light.json",
           "type": "File",
           "artifact": {
-            "size": 4135,
+            "size": 4315,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/ui_themes/light.json",
-            "MD5": "adfba137b3d62c50a5186a4f6523a72a",
+            "MD5": "d8349a30495a46f064dfaaf067e637d7",
             "path": "config/fancymenu/ui_themes/light.json"
           }
         },
@@ -6044,9 +5934,9 @@
           "name": "user_variables.db",
           "type": "File",
           "artifact": {
-            "size": 23,
+            "size": 25,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fancymenu/user_variables.db",
-            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
+            "MD5": "00ca169dda6f03aab8da4f5b29f543e7",
             "path": "config/fancymenu/user_variables.db"
           }
         },
@@ -6154,9 +6044,9 @@
           "name": "keybinds.toml",
           "type": "File",
           "artifact": {
-            "size": 6403,
+            "size": 6638,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/fzzy_config/keybinds.toml",
-            "MD5": "db29914636f6e1455464345f8e91d353",
+            "MD5": "a887572e30476cf65d195118ec3a332b",
             "path": "config/fzzy_config/keybinds.toml"
           }
         },
@@ -6198,9 +6088,9 @@
           "name": "gundurability-common.json",
           "type": "File",
           "artifact": {
-            "size": 2043,
+            "size": 2142,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/gundurability-common.json",
-            "MD5": "0fe6f6087aeb1af01ba1c2fb68c0a339",
+            "MD5": "abb95712f87cdf698539c265aa1cff70",
             "path": "config/gundurability-common.json"
           }
         },
@@ -6253,9 +6143,9 @@
           "name": "immediatelyfast.json",
           "type": "File",
           "artifact": {
-            "size": 1060,
+            "size": 1080,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/immediatelyfast.json",
-            "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
+            "MD5": "41b4d970a8b5e13087305815c636d60f",
             "path": "config/immediatelyfast.json"
           }
         },
@@ -6264,9 +6154,9 @@
           "name": "immersive_aircraft.json",
           "type": "File",
           "artifact": {
-            "size": 1518,
+            "size": 1576,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/immersive_aircraft.json",
-            "MD5": "58a1f702f379d5a9a2f9a0173b4c2234",
+            "MD5": "1cbe02bf08d51dd5a40e6b38b9601209",
             "path": "config/immersive_aircraft.json"
           }
         },
@@ -6275,9 +6165,9 @@
           "name": "immersive_melodies.json",
           "type": "File",
           "artifact": {
-            "size": 994,
+            "size": 1035,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/immersive_melodies.json",
-            "MD5": "d0e6ae0d98a6fdb7158c69f293592488",
+            "MD5": "e0bc72ab37c3303c1648b6174f29b542",
             "path": "config/immersive_melodies.json"
           }
         },
@@ -6308,9 +6198,9 @@
           "name": "infinitybuttons.toml",
           "type": "File",
           "artifact": {
-            "size": 157,
+            "size": 164,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/infinitybuttons.toml",
-            "MD5": "8027a72db71937b898f3eb09142eed95",
+            "MD5": "ac50ade0c418e655a17f56dc8180fc69",
             "path": "config/infinitybuttons.toml"
           }
         },
@@ -6330,9 +6220,9 @@
           "name": "item_obliterator.json5",
           "type": "File",
           "artifact": {
-            "size": 2474,
+            "size": 2528,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/item_obliterator.json5",
-            "MD5": "5452e857d46137b2691fbec562bc2e2f",
+            "MD5": "468b60be49eec22a0761e2e2f8645231",
             "path": "config/item_obliterator.json5"
           }
         },
@@ -6341,9 +6231,9 @@
           "name": "hide-blocks.json",
           "type": "File",
           "artifact": {
-            "size": 191,
+            "size": 196,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/jade/hide-blocks.json",
-            "MD5": "da56a1383649dd1ebbbf41d9cfddb0da",
+            "MD5": "0d10c7da18c297aa0b4c3528417a91fc",
             "path": "config/jade/hide-blocks.json"
           }
         },
@@ -6352,9 +6242,9 @@
           "name": "hide-entities.json",
           "type": "File",
           "artifact": {
-            "size": 325,
+            "size": 334,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/jade/hide-entities.json",
-            "MD5": "7b674db14cfdc978fa9786641eec8df6",
+            "MD5": "c65b3c5bf0bf107bb30f7f2a2b712505",
             "path": "config/jade/hide-entities.json"
           }
         },
@@ -6363,9 +6253,9 @@
           "name": "jade.json",
           "type": "File",
           "artifact": {
-            "size": 975,
+            "size": 1015,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/jade/jade.json",
-            "MD5": "e25e664d9763b079b6b442a0972dd9a5",
+            "MD5": "1fa7fadcafe9d3acfa2edd3a49a3a8a1",
             "path": "config/jade/jade.json"
           }
         },
@@ -6374,9 +6264,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 2572,
+            "size": 2681,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/jade/plugins.json",
-            "MD5": "c5e840b4db4af38c0244bef214467ccb",
+            "MD5": "ea66402b3f7c3cff5c7a2bd1dc318f83",
             "path": "config/jade/plugins.json"
           }
         },
@@ -6385,9 +6275,9 @@
           "name": "sort-order.json",
           "type": "File",
           "artifact": {
-            "size": 2196,
+            "size": 2266,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/jade/sort-order.json",
-            "MD5": "479a234ad2d10c03775526956aa766d4",
+            "MD5": "65957ccab2e739d5be0ec1df0555e22b",
             "path": "config/jade/sort-order.json"
           }
         },
@@ -6517,9 +6407,9 @@
           "name": "config.txt",
           "type": "File",
           "artifact": {
-            "size": 474,
+            "size": 490,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/justzoom/config.txt",
-            "MD5": "9870d9afbe93cb329c8daa34e50d078d",
+            "MD5": "14319064b2882ae48134a0677614af13",
             "path": "config/justzoom/config.txt"
           }
         },
@@ -6550,9 +6440,9 @@
           "name": "de_de.local",
           "type": "File",
           "artifact": {
-            "size": 369,
+            "size": 385,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/konkrete/locals/de_de.local",
-            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "MD5": "6347f88f56a101b6538d7d8aa36a0076",
             "path": "config/konkrete/locals/de_de.local"
           }
         },
@@ -6561,9 +6451,9 @@
           "name": "en_us.local",
           "type": "File",
           "artifact": {
-            "size": 426,
+            "size": 445,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/konkrete/locals/en_us.local",
-            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "MD5": "426e085dfccede463ad9209cf5246ac7",
             "path": "config/konkrete/locals/en_us.local"
           }
         },
@@ -6572,9 +6462,9 @@
           "name": "pl_pl.local",
           "type": "File",
           "artifact": {
-            "size": 313,
+            "size": 328,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/konkrete/locals/pl_pl.local",
-            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "MD5": "76be4939f194ac91310e3153e74aa6e6",
             "path": "config/konkrete/locals/pl_pl.local"
           }
         },
@@ -6583,9 +6473,9 @@
           "name": "pt_br.local",
           "type": "File",
           "artifact": {
-            "size": 322,
+            "size": 337,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/konkrete/locals/pt_br.local",
-            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "MD5": "8026c916f2f1f954886ceb1013e206af",
             "path": "config/konkrete/locals/pt_br.local"
           }
         },
@@ -6594,9 +6484,9 @@
           "name": "letmedespawn.json",
           "type": "File",
           "artifact": {
-            "size": 72,
+            "size": 77,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/letmedespawn.json",
-            "MD5": "f55dac234677303b177e54160ff86403",
+            "MD5": "fb93a5f8b28f6423b03b1a3c4d6f0d4f",
             "path": "config/letmedespawn.json"
           }
         },
@@ -6605,9 +6495,9 @@
           "name": "lithostitched.json",
           "type": "File",
           "artifact": {
-            "size": 284,
+            "size": 291,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lithostitched.json",
-            "MD5": "345e5fd8f4228a78675c761850e85ba9",
+            "MD5": "fa44973369eb3df1ba4f7aa7795402ba",
             "path": "config/lithostitched.json"
           }
         },
@@ -6616,9 +6506,9 @@
           "name": "lmft.json",
           "type": "File",
           "artifact": {
-            "size": 33,
+            "size": 35,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lmft.json",
-            "MD5": "5d8f00ff46362f9534a2666392225e30",
+            "MD5": "4dfc9ed3deb5601b100f67631d1b320d",
             "path": "config/lmft.json"
           }
         },
@@ -6627,9 +6517,9 @@
           "name": "loginsystem.properties",
           "type": "File",
           "artifact": {
-            "size": 2106,
+            "size": 2159,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/loginsystem.properties",
-            "MD5": "b8b4b577b1da5216aef815b081add0e5",
+            "MD5": "1810ab7d2c55c722d9e7841d461392c4",
             "path": "config/loginsystem.properties"
           }
         },
@@ -6638,9 +6528,9 @@
           "name": "lootintegrations.json",
           "type": "File",
           "artifact": {
-            "size": 929,
+            "size": 950,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lootintegrations.json",
-            "MD5": "548d2cec198ee6124e364f4bfbd54fd0",
+            "MD5": "29527d3889d3f4f43b5b24acd1de6c99",
             "path": "config/lootintegrations.json"
           }
         },
@@ -6682,9 +6572,9 @@
           "name": "ancient.json",
           "type": "File",
           "artifact": {
-            "size": 4522,
+            "size": 4658,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/ancient.json",
-            "MD5": "1776e2ae71d984ab9041993ce7483b4c",
+            "MD5": "e0f023c4bb3604a05847f07e165e9725",
             "path": "config/lostcities/profiles/ancient.json"
           }
         },
@@ -6693,21 +6583,10 @@
           "name": "atlantis.json",
           "type": "File",
           "artifact": {
-            "size": 4591,
+            "size": 4727,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/atlantis.json",
-            "MD5": "7ef97203966fbf84d67bf2f66df29268",
+            "MD5": "4456fc00141b526359315414252f819f",
             "path": "config/lostcities/profiles/atlantis.json"
-          }
-        },
-        {
-          "id": "bio_wasteland.json",
-          "name": "bio_wasteland.json",
-          "type": "File",
-          "artifact": {
-            "size": 4486,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/bio_wasteland.json",
-            "MD5": "0fdd54a7039a3fb888e11583eb77a33d",
-            "path": "config/lostcities/profiles/bio_wasteland.json"
           }
         },
         {
@@ -6715,9 +6594,9 @@
           "name": "biosphere.json",
           "type": "File",
           "artifact": {
-            "size": 4626,
+            "size": 4762,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/biosphere.json",
-            "MD5": "4e63b9d50f1a1e0a9b0bcb09fa0963c5",
+            "MD5": "97770f0cd951eb977d200db555024f48",
             "path": "config/lostcities/profiles/biosphere.json"
           }
         },
@@ -6726,10 +6605,21 @@
           "name": "biosphere_caves.json",
           "type": "File",
           "artifact": {
-            "size": 4597,
+            "size": 4733,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/biosphere_caves.json",
-            "MD5": "a46cd17f7ed9f0f93969b8d2711baa82",
+            "MD5": "be9ba754f84834b422a5c569236ec820",
             "path": "config/lostcities/profiles/biosphere_caves.json"
+          }
+        },
+        {
+          "id": "bio_wasteland.json",
+          "name": "bio_wasteland.json",
+          "type": "File",
+          "artifact": {
+            "size": 4622,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/bio_wasteland.json",
+            "MD5": "9890d5ee29c75acbbceca7cfc9047e5d",
+            "path": "config/lostcities/profiles/bio_wasteland.json"
           }
         },
         {
@@ -6737,9 +6627,9 @@
           "name": "cavern.json",
           "type": "File",
           "artifact": {
-            "size": 4695,
+            "size": 4831,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/cavern.json",
-            "MD5": "68986ad7e102c7f04ef72e0d89cb372b",
+            "MD5": "14cadef0922da0335580776b2e1b53f7",
             "path": "config/lostcities/profiles/cavern.json"
           }
         },
@@ -6748,9 +6638,9 @@
           "name": "default.json",
           "type": "File",
           "artifact": {
-            "size": 4518,
+            "size": 4654,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/default.json",
-            "MD5": "8dfb682e8d14776c5286b46347f1bf59",
+            "MD5": "77f51907adf2c365b6507b7507633a12",
             "path": "config/lostcities/profiles/default.json"
           }
         },
@@ -6759,9 +6649,9 @@
           "name": "floating.json",
           "type": "File",
           "artifact": {
-            "size": 4643,
+            "size": 4779,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/floating.json",
-            "MD5": "b8df1e391a75b5a86ea5127f556e58f6",
+            "MD5": "d2bcda79741e5418d826b82b15b1a3cc",
             "path": "config/lostcities/profiles/floating.json"
           }
         },
@@ -6770,9 +6660,9 @@
           "name": "largecities.json",
           "type": "File",
           "artifact": {
-            "size": 4532,
+            "size": 4668,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/largecities.json",
-            "MD5": "d83b3b56d24c00385e3dfd381ad4a4c4",
+            "MD5": "22a743a79c710a9ad1db13eb67d477fd",
             "path": "config/lostcities/profiles/largecities.json"
           }
         },
@@ -6781,9 +6671,9 @@
           "name": "nodamage.json",
           "type": "File",
           "artifact": {
-            "size": 4571,
+            "size": 4707,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/nodamage.json",
-            "MD5": "c657f67bc68758127a6a5b8870c2eebf",
+            "MD5": "2041b182a4ed910676567a68ed14a2e4",
             "path": "config/lostcities/profiles/nodamage.json"
           }
         },
@@ -6792,9 +6682,9 @@
           "name": "onlycities.json",
           "type": "File",
           "artifact": {
-            "size": 4501,
+            "size": 4637,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/onlycities.json",
-            "MD5": "96a7245dbf07d6ea294a9304e8116472",
+            "MD5": "9409ddc0f602ef48361acea2735f1cc6",
             "path": "config/lostcities/profiles/onlycities.json"
           }
         },
@@ -6803,9 +6693,9 @@
           "name": "rarecities.json",
           "type": "File",
           "artifact": {
-            "size": 4491,
+            "size": 4627,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/rarecities.json",
-            "MD5": "e70a32d78e69fbbc79fa672efb312a45",
+            "MD5": "a8667a37372b7402fdd2e3bdecb30ded",
             "path": "config/lostcities/profiles/rarecities.json"
           }
         },
@@ -6814,9 +6704,9 @@
           "name": "safe.json",
           "type": "File",
           "artifact": {
-            "size": 4515,
+            "size": 4651,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/safe.json",
-            "MD5": "4dd7e208f610619a593aefe7fcd9529c",
+            "MD5": "7271d96c0c996d8a7ab51df7b17ebe7d",
             "path": "config/lostcities/profiles/safe.json"
           }
         },
@@ -6825,9 +6715,9 @@
           "name": "space.json",
           "type": "File",
           "artifact": {
-            "size": 4667,
+            "size": 4803,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/space.json",
-            "MD5": "2f7b1d57dbee784ee0e3a97c125d4bf2",
+            "MD5": "b7dc97936a1841f7b4cfdb74f7f5df0d",
             "path": "config/lostcities/profiles/space.json"
           }
         },
@@ -6836,9 +6726,9 @@
           "name": "tallbuildings.json",
           "type": "File",
           "artifact": {
-            "size": 4522,
+            "size": 4658,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/tallbuildings.json",
-            "MD5": "13617cf05c7b9b70136db492a0b39ec3",
+            "MD5": "446e04a483b4c7940e7d73e0fcce55a3",
             "path": "config/lostcities/profiles/tallbuildings.json"
           }
         },
@@ -6847,9 +6737,9 @@
           "name": "void_outside.json",
           "type": "File",
           "artifact": {
-            "size": 4469,
+            "size": 4605,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/void_outside.json",
-            "MD5": "0a9c6fa2c4b9860faf139fe6e93f0fa5",
+            "MD5": "4e5a94a41a9b93142c17329ef095e929",
             "path": "config/lostcities/profiles/void_outside.json"
           }
         },
@@ -6858,9 +6748,9 @@
           "name": "wasteland.json",
           "type": "File",
           "artifact": {
-            "size": 4567,
+            "size": 4703,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/lostcities/profiles/wasteland.json",
-            "MD5": "bab3c2c9a0b7a701b31ace0a1d130114",
+            "MD5": "5289726fdbc75878e1a32426a541862c",
             "path": "config/lostcities/profiles/wasteland.json"
           }
         },
@@ -6902,9 +6792,9 @@
           "name": "modernfix-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 5744,
+            "size": 5853,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/modernfix-mixins.properties",
-            "MD5": "d67f29aa7e7ca053d8034348e8368d86",
+            "MD5": "5c9d6dcdd344cf722cae631fced0c960",
             "path": "config/modernfix-mixins.properties"
           }
         },
@@ -6950,6 +6840,17 @@
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/moonlight-common.toml",
             "MD5": "bf1a8b524382ee27f875bf6738b8d3ed",
             "path": "config/moonlight-common.toml"
+          }
+        },
+        {
+          "id": "MouseTweaks.cfg",
+          "name": "MouseTweaks.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 143,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/MouseTweaks.cfg",
+            "MD5": "052f7e5c015ad757f5b686425ae66ad8",
+            "path": "config/MouseTweaks.cfg"
           }
         },
         {
@@ -7001,9 +6902,9 @@
           "name": "necronomicon.json5",
           "type": "File",
           "artifact": {
-            "size": 266,
+            "size": 282,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/necronomicon.json5",
-            "MD5": "f5d72523e51844112485d6c21b8d51c3",
+            "MD5": "3f3a1bb56daf4307ef5f582877932adb",
             "path": "config/necronomicon.json5"
           }
         },
@@ -7012,9 +6913,9 @@
           "name": "nerb.yaml",
           "type": "File",
           "artifact": {
-            "size": 547,
+            "size": 553,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/nerb.yaml",
-            "MD5": "50f00acc3ae18108ccd5b2eed1bc8fd8",
+            "MD5": "2c6d0c5382530a25e6c244ed028be2dd",
             "path": "config/nerb.yaml"
           }
         },
@@ -7027,6 +6928,72 @@
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/norandomticks-common.toml",
             "MD5": "b86f98b1934c8076b59167c8c8b93faf",
             "path": "config/norandomticks-common.toml"
+          }
+        },
+        {
+          "id": "aquamirae-client.toml",
+          "name": "aquamirae-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 200,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/aquamirae-client.toml",
+            "MD5": "83f295888292d5287a9c92a8840fedb0",
+            "path": "config/Obscuria/aquamirae-client.toml"
+          }
+        },
+        {
+          "id": "aquamirae-common.toml",
+          "name": "aquamirae-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2170,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/aquamirae-common.toml",
+            "MD5": "6310c1e6526e990ce83b89a76045e121",
+            "path": "config/Obscuria/aquamirae-common.toml"
+          }
+        },
+        {
+          "id": "aquamirae_cover.png",
+          "name": "aquamirae_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 137180,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/aquamirae_cover.png",
+            "MD5": "be6ca08f218140665fc8fe155015082b",
+            "path": "config/Obscuria/Data/aquamirae_cover.png"
+          }
+        },
+        {
+          "id": "loot_journal_cover.png",
+          "name": "loot_journal_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 32741,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/loot_journal_cover.png",
+            "MD5": "d211874e8493efff00faf9f05033f620",
+            "path": "config/Obscuria/Data/loot_journal_cover.png"
+          }
+        },
+        {
+          "id": "obscure_api_cover.png",
+          "name": "obscure_api_cover.png",
+          "type": "File",
+          "artifact": {
+            "size": 64456,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/Data/obscure_api_cover.png",
+            "MD5": "8b355bf8844ae3d3ba4418e1914f8d80",
+            "path": "config/Obscuria/Data/obscure_api_cover.png"
+          }
+        },
+        {
+          "id": "obscure-api-client.toml",
+          "name": "obscure-api-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 359,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/Obscuria/obscure-api-client.toml",
+            "MD5": "469445e5c514f0c885e7bfa853cb513c",
+            "path": "config/Obscuria/obscure-api-client.toml"
           }
         },
         {
@@ -7078,9 +7045,9 @@
           "name": "particle_core_config.toml",
           "type": "File",
           "artifact": {
-            "size": 201,
+            "size": 207,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/particle_core_config.toml",
-            "MD5": "5d0d87a3c4e86a8718298a1bb3c18be3",
+            "MD5": "8f2321bb33aab2d10ec6abbc74d1d079",
             "path": "config/particle_core_config.toml"
           }
         },
@@ -7089,9 +7056,9 @@
           "name": "particle_core_disabled_optimizations.json",
           "type": "File",
           "artifact": {
-            "size": 728,
+            "size": 739,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/particle_core_disabled_optimizations.json",
-            "MD5": "b65061998d785170b89bf7343f4a97ad",
+            "MD5": "ed7b1cb919e9f954037f5809a07e9bc6",
             "path": "config/particle_core_disabled_optimizations.json"
           }
         },
@@ -7122,9 +7089,9 @@
           "name": "pfm.json",
           "type": "File",
           "artifact": {
-            "size": 408,
+            "size": 421,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/pfm.json",
-            "MD5": "a5dbf74693baae3c9622eef2b12290a1",
+            "MD5": "89df0a3c2254702ccfddb92bb3cb1685",
             "path": "config/pfm.json"
           }
         },
@@ -7133,9 +7100,9 @@
           "name": "playerrevive-client.json",
           "type": "File",
           "artifact": {
-            "size": 131,
+            "size": 138,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/playerrevive-client.json",
-            "MD5": "a3124ef28058a8afae83c56f160d237b",
+            "MD5": "2531be4224a5f43e4a80724b7fca3c12",
             "path": "config/playerrevive-client.json"
           }
         },
@@ -7144,9 +7111,9 @@
           "name": "playerrevive.json",
           "type": "File",
           "artifact": {
-            "size": 1767,
+            "size": 1840,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/playerrevive.json",
-            "MD5": "b9f1f38effcc57f20c9040530acc4db6",
+            "MD5": "fbbc0c21d1d340657d4fedbb91bbae25",
             "path": "config/playerrevive.json"
           }
         },
@@ -7177,9 +7144,9 @@
           "name": "powah.json5",
           "type": "File",
           "artifact": {
-            "size": 8023,
+            "size": 8403,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/powah.json5",
-            "MD5": "079202b923d9bd29a952149b8a7ede5a",
+            "MD5": "003f44900024ab8e565106cbd59402d4",
             "path": "config/powah.json5"
           }
         },
@@ -7199,9 +7166,9 @@
           "name": "acid_walker.yaml",
           "type": "File",
           "artifact": {
-            "size": 2318,
+            "size": 2357,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/raccompat/relics/acid_walker.yaml",
-            "MD5": "84c1d388b52481b47bc5308182d0cf0b",
+            "MD5": "5025e2c4f244dd5bf90ec5070902ceda",
             "path": "config/raccompat/relics/acid_walker.yaml"
           }
         },
@@ -7210,9 +7177,9 @@
           "name": "desolate_pendant.yaml",
           "type": "File",
           "artifact": {
-            "size": 6936,
+            "size": 7037,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/raccompat/relics/desolate_pendant.yaml",
-            "MD5": "d81f1138af4000f5dec4610c7d73c28e",
+            "MD5": "93307fba3433e27175a77bfd76519933",
             "path": "config/raccompat/relics/desolate_pendant.yaml"
           }
         },
@@ -7221,9 +7188,9 @@
           "name": "polar_boot.yaml",
           "type": "File",
           "artifact": {
-            "size": 2321,
+            "size": 2360,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/raccompat/relics/polar_boot.yaml",
-            "MD5": "e891843e7353326ab878aed4b8eaeba7",
+            "MD5": "e3440d0d6c05f85447d5986b197ef80e",
             "path": "config/raccompat/relics/polar_boot.yaml"
           }
         },
@@ -7232,9 +7199,9 @@
           "name": "vine_ring.yaml",
           "type": "File",
           "artifact": {
-            "size": 3803,
+            "size": 3861,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/raccompat/relics/vine_ring.yaml",
-            "MD5": "ee3757cb1617b0f70c6cb2db33542177",
+            "MD5": "6f4d33e830336e34bb4aeb719db8f723",
             "path": "config/raccompat/relics/vine_ring.yaml"
           }
         },
@@ -7243,9 +7210,9 @@
           "name": "frost_robe.yaml",
           "type": "File",
           "artifact": {
-            "size": 8859,
+            "size": 8989,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/ramcompat/relics/frost_robe.yaml",
-            "MD5": "70afd336f8207b1fa752715dcbd998ac",
+            "MD5": "8ae2e7f3889eba28df1a5f4390a440d1",
             "path": "config/ramcompat/relics/frost_robe.yaml"
           }
         },
@@ -7254,9 +7221,9 @@
           "name": "stink_gland.yaml",
           "type": "File",
           "artifact": {
-            "size": 8387,
+            "size": 8506,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/ramcompat/relics/stink_gland.yaml",
-            "MD5": "272373b0d72e648de02e97196bf547f8",
+            "MD5": "1c68cf0c6628f71c5f7f5bd97703ff1f",
             "path": "config/ramcompat/relics/stink_gland.yaml"
           }
         },
@@ -7265,9 +7232,9 @@
           "name": "tendon_lump.yaml",
           "type": "File",
           "artifact": {
-            "size": 5322,
+            "size": 5399,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/ramcompat/relics/tendon_lump.yaml",
-            "MD5": "daabeec86c7613a08a4ceccd99fef37c",
+            "MD5": "865baff47791acce7398e03977b176ea",
             "path": "config/ramcompat/relics/tendon_lump.yaml"
           }
         },
@@ -7298,9 +7265,9 @@
           "name": "amphibian_boot.yaml",
           "type": "File",
           "artifact": {
-            "size": 8786,
+            "size": 8914,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/amphibian_boot.yaml",
-            "MD5": "f5e6c4a9b8502a8d525ee95d2f8995b3",
+            "MD5": "35f37da891206c0aca58b9c193427795",
             "path": "config/relics/relics/amphibian_boot.yaml"
           }
         },
@@ -7309,9 +7276,9 @@
           "name": "aqua_walker.yaml",
           "type": "File",
           "artifact": {
-            "size": 2397,
+            "size": 2437,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/aqua_walker.yaml",
-            "MD5": "6caef20ae854145c83e8115cf45a0ea7",
+            "MD5": "f65e163793892850e262af91906665a6",
             "path": "config/relics/relics/aqua_walker.yaml"
           }
         },
@@ -7320,9 +7287,9 @@
           "name": "arrow_quiver.yaml",
           "type": "File",
           "artifact": {
-            "size": 13309,
+            "size": 13498,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/arrow_quiver.yaml",
-            "MD5": "c149b9713a22caf58b06edc9be3e6dc4",
+            "MD5": "9ae3f27d34e79991dbe61f1fe5e8a8f8",
             "path": "config/relics/relics/arrow_quiver.yaml"
           }
         },
@@ -7331,9 +7298,9 @@
           "name": "bastion_ring.yaml",
           "type": "File",
           "artifact": {
-            "size": 2660,
+            "size": 2708,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/bastion_ring.yaml",
-            "MD5": "5953de940b8f4eed5d3b000e1eb05ebf",
+            "MD5": "d779d70395ee952edaabc79777aa6be2",
             "path": "config/relics/relics/bastion_ring.yaml"
           }
         },
@@ -7342,9 +7309,9 @@
           "name": "blazing_flask.yaml",
           "type": "File",
           "artifact": {
-            "size": 5314,
+            "size": 5391,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/blazing_flask.yaml",
-            "MD5": "c3e18c01f16fadd386bd569138e89687",
+            "MD5": "ec5c65fa3c3ca35f87e311e4c3b9ca2a",
             "path": "config/relics/relics/blazing_flask.yaml"
           }
         },
@@ -7353,9 +7320,9 @@
           "name": "chorus_inhibitor.yaml",
           "type": "File",
           "artifact": {
-            "size": 3748,
+            "size": 3805,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/chorus_inhibitor.yaml",
-            "MD5": "632f869b093ee3228ea12d97727f0c70",
+            "MD5": "b7767bbd1e302c9723c8fc2610ed3c4d",
             "path": "config/relics/relics/chorus_inhibitor.yaml"
           }
         },
@@ -7364,9 +7331,9 @@
           "name": "drowned_belt.yaml",
           "type": "File",
           "artifact": {
-            "size": 9064,
+            "size": 9200,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/drowned_belt.yaml",
-            "MD5": "715e1d371d2d9aec2c729b761cd5d1cf",
+            "MD5": "ce9ec0faf7056fd26dd8f91965ac96d5",
             "path": "config/relics/relics/drowned_belt.yaml"
           }
         },
@@ -7375,9 +7342,9 @@
           "name": "elytra_booster.yaml",
           "type": "File",
           "artifact": {
-            "size": 3755,
+            "size": 3812,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/elytra_booster.yaml",
-            "MD5": "1fad123815eb7b750de1abd4ffa1189e",
+            "MD5": "142e75b2aa05c87a85ae0dfb6e9a29b5",
             "path": "config/relics/relics/elytra_booster.yaml"
           }
         },
@@ -7386,9 +7353,9 @@
           "name": "enders_hand.yaml",
           "type": "File",
           "artifact": {
-            "size": 2672,
+            "size": 2720,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/enders_hand.yaml",
-            "MD5": "6a5fae67a7f33fea37fe36696fbfbf5d",
+            "MD5": "4640a6df9475113f3f860c75848b2d03",
             "path": "config/relics/relics/enders_hand.yaml"
           }
         },
@@ -7397,9 +7364,9 @@
           "name": "holy_locket.yaml",
           "type": "File",
           "artifact": {
-            "size": 11568,
+            "size": 11731,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/holy_locket.yaml",
-            "MD5": "bf876490702f0d5dd19cff78ff927bb6",
+            "MD5": "caf40b44c31c454daf1f1e7c32878580",
             "path": "config/relics/relics/holy_locket.yaml"
           }
         },
@@ -7408,9 +7375,9 @@
           "name": "horse_flute.yaml",
           "type": "File",
           "artifact": {
-            "size": 2850,
+            "size": 2901,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/horse_flute.yaml",
-            "MD5": "91bea4723ca05cdce4fedae7a18191db",
+            "MD5": "a6d49ede1cba323f9af054099bd1592d",
             "path": "config/relics/relics/horse_flute.yaml"
           }
         },
@@ -7419,9 +7386,9 @@
           "name": "hunter_belt.yaml",
           "type": "File",
           "artifact": {
-            "size": 4065,
+            "size": 4130,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/hunter_belt.yaml",
-            "MD5": "840aefa04d6a6f862229702ae1315840",
+            "MD5": "df717f5ef0bfbe03b5e1854bdc66d8b4",
             "path": "config/relics/relics/hunter_belt.yaml"
           }
         },
@@ -7430,9 +7397,9 @@
           "name": "ice_breaker.yaml",
           "type": "File",
           "artifact": {
-            "size": 5641,
+            "size": 5726,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/ice_breaker.yaml",
-            "MD5": "43f17b06260323123cf446ada2b29113",
+            "MD5": "d082cae9da79cf294ee28bf7be7a26b9",
             "path": "config/relics/relics/ice_breaker.yaml"
           }
         },
@@ -7441,9 +7408,9 @@
           "name": "ice_skates.yaml",
           "type": "File",
           "artifact": {
-            "size": 5646,
+            "size": 5731,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/ice_skates.yaml",
-            "MD5": "1d68f6a077f3340990bfe80fb2ec0bc6",
+            "MD5": "53064533ec5d91d6575b2132f7354711",
             "path": "config/relics/relics/ice_skates.yaml"
           }
         },
@@ -7452,9 +7419,9 @@
           "name": "infinity_ham.yaml",
           "type": "File",
           "artifact": {
-            "size": 4079,
+            "size": 4144,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/infinity_ham.yaml",
-            "MD5": "0e2ecd0e8186879facae4bd9289148ab",
+            "MD5": "d78e7224bc5302692050a66f230709fd",
             "path": "config/relics/relics/infinity_ham.yaml"
           }
         },
@@ -7463,9 +7430,9 @@
           "name": "jellyfish_necklace.yaml",
           "type": "File",
           "artifact": {
-            "size": 4503,
+            "size": 4578,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/jellyfish_necklace.yaml",
-            "MD5": "1c09eae2d73eb3eb5ea6aa66580a9dbe",
+            "MD5": "ed81834bfe13fa2f38d81871e8d96deb",
             "path": "config/relics/relics/jellyfish_necklace.yaml"
           }
         },
@@ -7474,9 +7441,9 @@
           "name": "leather_belt.yaml",
           "type": "File",
           "artifact": {
-            "size": 2306,
+            "size": 2345,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/leather_belt.yaml",
-            "MD5": "a5170caa3a34cb9c2d472f28fc2088f6",
+            "MD5": "e2c8a80a5f413d122dbca95508611b64",
             "path": "config/relics/relics/leather_belt.yaml"
           }
         },
@@ -7485,9 +7452,9 @@
           "name": "magic_mirror.yaml",
           "type": "File",
           "artifact": {
-            "size": 3897,
+            "size": 3956,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/magic_mirror.yaml",
-            "MD5": "6cc35e34e497169866a855612fc03816",
+            "MD5": "fb27d879490e15fc8e802f1725c3ce45",
             "path": "config/relics/relics/magic_mirror.yaml"
           }
         },
@@ -7496,9 +7463,9 @@
           "name": "magma_walker.yaml",
           "type": "File",
           "artifact": {
-            "size": 2815,
+            "size": 2865,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/magma_walker.yaml",
-            "MD5": "03c5588a80a7b9156773273f4dfbbe83",
+            "MD5": "0494ef3bf4a6c34ac383aa76d250658c",
             "path": "config/relics/relics/magma_walker.yaml"
           }
         },
@@ -7507,9 +7474,9 @@
           "name": "midnight_robe.yaml",
           "type": "File",
           "artifact": {
-            "size": 7055,
+            "size": 7158,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/midnight_robe.yaml",
-            "MD5": "23eefbcbf4739d66d70ab6d664ba5b34",
+            "MD5": "21c042c46f98388937caa1e2cf3df9ba",
             "path": "config/relics/relics/midnight_robe.yaml"
           }
         },
@@ -7518,9 +7485,9 @@
           "name": "rage_glove.yaml",
           "type": "File",
           "artifact": {
-            "size": 14617,
+            "size": 14818,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/rage_glove.yaml",
-            "MD5": "604d86037b98071d9df8c49572367932",
+            "MD5": "13c179b8d9559f60b76f374255249b4f",
             "path": "config/relics/relics/rage_glove.yaml"
           }
         },
@@ -7529,9 +7496,9 @@
           "name": "reflection_necklace.yaml",
           "type": "File",
           "artifact": {
-            "size": 5332,
+            "size": 5409,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/reflection_necklace.yaml",
-            "MD5": "ec087884007436b90ba1353ca6b470ae",
+            "MD5": "ede6be43fb9c3d325362d50f5733b6d8",
             "path": "config/relics/relics/reflection_necklace.yaml"
           }
         },
@@ -7540,9 +7507,9 @@
           "name": "roller_skates.yaml",
           "type": "File",
           "artifact": {
-            "size": 3945,
+            "size": 4005,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/roller_skates.yaml",
-            "MD5": "d15415b8c24f462364ad44bfa830bac3",
+            "MD5": "97fe849a3d441f71f9a17b877a6c06c4",
             "path": "config/relics/relics/roller_skates.yaml"
           }
         },
@@ -7551,9 +7518,9 @@
           "name": "shadow_glaive.yaml",
           "type": "File",
           "artifact": {
-            "size": 9949,
+            "size": 10089,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/shadow_glaive.yaml",
-            "MD5": "a418a9742fc7e8dc15ffee98e067cfee",
+            "MD5": "7b4643c7d4c8ed1117d9f47c4f60d30d",
             "path": "config/relics/relics/shadow_glaive.yaml"
           }
         },
@@ -7562,9 +7529,9 @@
           "name": "space_dissector.yaml",
           "type": "File",
           "artifact": {
-            "size": 3902,
+            "size": 3961,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/space_dissector.yaml",
-            "MD5": "0b94172235ee66f84933045ecf7fef08",
+            "MD5": "fd9f980a8724304a6ec9ab5c735949ea",
             "path": "config/relics/relics/space_dissector.yaml"
           }
         },
@@ -7573,9 +7540,9 @@
           "name": "spatial_sign.yaml",
           "type": "File",
           "artifact": {
-            "size": 2448,
+            "size": 2489,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/spatial_sign.yaml",
-            "MD5": "83ee0e63e46d107d5f8d2688037915de",
+            "MD5": "bfdc8de1a8f178ee5dd8784b47061281",
             "path": "config/relics/relics/spatial_sign.yaml"
           }
         },
@@ -7584,9 +7551,9 @@
           "name": "spore_sack.yaml",
           "type": "File",
           "artifact": {
-            "size": 16198,
+            "size": 16423,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/spore_sack.yaml",
-            "MD5": "6e028a2d02859e4b8e86fe68ecff0207",
+            "MD5": "3d28a9575fa84ff389ff9ffac8c6fb48",
             "path": "config/relics/relics/spore_sack.yaml"
           }
         },
@@ -7595,9 +7562,9 @@
           "name": "wool_mitten.yaml",
           "type": "File",
           "artifact": {
-            "size": 6746,
+            "size": 6841,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/relics/relics/wool_mitten.yaml",
-            "MD5": "634be1ee357192e87d87374ad5bcb48d",
+            "MD5": "1cfb9e4030762112a778ad400f7b76bf",
             "path": "config/relics/relics/wool_mitten.yaml"
           }
         },
@@ -7639,9 +7606,9 @@
           "name": "config.yml",
           "type": "File",
           "artifact": {
-            "size": 10569,
+            "size": 10857,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/servercore/config.yml",
-            "MD5": "352155f6e66d28bea5ccc2cd1c41c381",
+            "MD5": "6a687f8a2ab3cc6608a05086c04e32a9",
             "path": "config/servercore/config.yml"
           }
         },
@@ -7650,9 +7617,9 @@
           "name": "optimizations.yml",
           "type": "File",
           "artifact": {
-            "size": 1204,
+            "size": 1220,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/servercore/optimizations.yml",
-            "MD5": "55cd75127ddf4e9e74497cfabcff9ca3",
+            "MD5": "e9a3556fd913af54b0eda45e36fc7e54",
             "path": "config/servercore/optimizations.yml"
           }
         },
@@ -7683,9 +7650,9 @@
           "name": "simplehats.json",
           "type": "File",
           "artifact": {
-            "size": 105169,
+            "size": 110151,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplehats.json",
-            "MD5": "c018a899802a96bebfbbfa3a57bfaadb",
+            "MD5": "476a3985ea47d5dd9b07a8fd6eb959ec",
             "path": "config/simplehats.json"
           }
         },
@@ -7694,9 +7661,9 @@
           "name": "loot.json5",
           "type": "File",
           "artifact": {
-            "size": 1293,
+            "size": 1337,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplymore/loot.json5",
-            "MD5": "86cc9af3efc03fc8f5d6598b25cd7c42",
+            "MD5": "652cd48f26a0b2310408bf7e51fa1a3d",
             "path": "config/simplymore/loot.json5"
           }
         },
@@ -7705,9 +7672,9 @@
           "name": "mimicry_attributes.json5",
           "type": "File",
           "artifact": {
-            "size": 4334,
+            "size": 4497,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplymore/mimicry_attributes.json5",
-            "MD5": "56eef488c6a5b637434fadb59bf5b053",
+            "MD5": "8b3cdc56127c02f7525115176d3bd33b",
             "path": "config/simplymore/mimicry_attributes.json5"
           }
         },
@@ -7716,9 +7683,9 @@
           "name": "unique_effects.json5",
           "type": "File",
           "artifact": {
-            "size": 6874,
+            "size": 7088,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplymore/unique_effects.json5",
-            "MD5": "ebab509e43dc5e1c6c0e89fb221f6327",
+            "MD5": "50d8ce713f29008217a0621b4e2f6e89",
             "path": "config/simplymore/unique_effects.json5"
           }
         },
@@ -7727,9 +7694,9 @@
           "name": "weapon_attributes.json5",
           "type": "File",
           "artifact": {
-            "size": 3943,
+            "size": 4073,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplymore/weapon_attributes.json5",
-            "MD5": "e26c8a2f235f624ec42056448e1365f9",
+            "MD5": "849a9f7871cf1535c2bc164233ae8665",
             "path": "config/simplymore/weapon_attributes.json5"
           }
         },
@@ -7738,9 +7705,9 @@
           "name": "backupconfig.json",
           "type": "File",
           "artifact": {
-            "size": 71,
+            "size": 74,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_extra/backupconfig.json",
-            "MD5": "c3ee93385d4af4147ada057d45bcef51",
+            "MD5": "e37b895546e9dc543f8a8bdfb59c0508",
             "path": "config/simplyswords_extra/backupconfig.json"
           }
         },
@@ -7749,9 +7716,9 @@
           "name": "loot_config.json5",
           "type": "File",
           "artifact": {
-            "size": 2554,
+            "size": 2590,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_extra/loot_config.json5",
-            "MD5": "92e0e76d1300ff32ba52831198c1253a",
+            "MD5": "3e1f247747c3b39899624793c562e9f9",
             "path": "config/simplyswords_extra/loot_config.json5"
           }
         },
@@ -7760,9 +7727,9 @@
           "name": "gem_effects.json5",
           "type": "File",
           "artifact": {
-            "size": 577,
+            "size": 601,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/gem_effects.json5",
-            "MD5": "8724cb829515d37df665f659dd4f3705",
+            "MD5": "856aeba0dc1a71f1300ebbd1cc325ed8",
             "path": "config/simplyswords_main/gem_effects.json5"
           }
         },
@@ -7771,9 +7738,9 @@
           "name": "general.json5",
           "type": "File",
           "artifact": {
-            "size": 269,
+            "size": 277,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/general.json5",
-            "MD5": "6942b29b6959b168ef52a5dc6c46e2e5",
+            "MD5": "0d49f00372ab77b93ac9de471ac045c9",
             "path": "config/simplyswords_main/general.json5"
           }
         },
@@ -7782,9 +7749,9 @@
           "name": "loot.json5",
           "type": "File",
           "artifact": {
-            "size": 1261,
+            "size": 1304,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/loot.json5",
-            "MD5": "e2aa616b1b8ee35f54a1e3f54f7936fb",
+            "MD5": "07bd18255e81947073cc00569662379a",
             "path": "config/simplyswords_main/loot.json5"
           }
         },
@@ -7793,9 +7760,9 @@
           "name": "runic_effects.json5",
           "type": "File",
           "artifact": {
-            "size": 1629,
+            "size": 1691,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/runic_effects.json5",
-            "MD5": "bff04f9b619c2a704bfb2131301aaf72",
+            "MD5": "5e654edda98820bc6d669bad816423a1",
             "path": "config/simplyswords_main/runic_effects.json5"
           }
         },
@@ -7804,9 +7771,9 @@
           "name": "status_effects.json5",
           "type": "File",
           "artifact": {
-            "size": 20,
+            "size": 22,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/status_effects.json5",
-            "MD5": "ffed0d54d023a6334bc0063556038480",
+            "MD5": "2c183bffc97100f84ff9451281e7b688",
             "path": "config/simplyswords_main/status_effects.json5"
           }
         },
@@ -7815,9 +7782,9 @@
           "name": "unique_effects.json5",
           "type": "File",
           "artifact": {
-            "size": 5507,
+            "size": 5682,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/unique_effects.json5",
-            "MD5": "1efc8d428abaed8a1c8044d082b44162",
+            "MD5": "cf1baa68f998a6b6e24c135fe27f63ef",
             "path": "config/simplyswords_main/unique_effects.json5"
           }
         },
@@ -7826,9 +7793,9 @@
           "name": "weapon_attributes.json5",
           "type": "File",
           "artifact": {
-            "size": 5926,
+            "size": 6082,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/simplyswords_main/weapon_attributes.json5",
-            "MD5": "21f14bb39bc879947f81ac1a1c7be1ef",
+            "MD5": "6c57f98d8796f724bb954fcc7c64d5cd",
             "path": "config/simplyswords_main/weapon_attributes.json5"
           }
         },
@@ -7837,9 +7804,9 @@
           "name": "smoothchunk.json",
           "type": "File",
           "artifact": {
-            "size": 585,
+            "size": 602,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/smoothchunk.json",
-            "MD5": "854ac5572ff95f7de0d6423aeb9fba04",
+            "MD5": "997e4cc25555e83b10496d2a38476d63",
             "path": "config/smoothchunk.json"
           }
         },
@@ -7903,9 +7870,9 @@
           "name": "config.json",
           "type": "File",
           "artifact": {
-            "size": 117,
+            "size": 120,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/spark/config.json",
-            "MD5": "fd707ecbb3f9675d81535e88b7712d0b",
+            "MD5": "5018e5fb0f98ceb2b8ee9d8fbf9eae2d",
             "path": "config/spark/config.json"
           }
         },
@@ -7914,9 +7881,9 @@
           "name": "sparsestructures.json5",
           "type": "File",
           "artifact": {
-            "size": 1901,
+            "size": 1940,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/sparsestructures.json5",
-            "MD5": "93169e425f1abd93630ca042a0e3a158",
+            "MD5": "102580a7c5f21e86fd783eae82b590e1",
             "path": "config/sparsestructures.json5"
           }
         },
@@ -7925,9 +7892,9 @@
           "name": "structurify_backup_2025-06-19_00-55-23.json",
           "type": "File",
           "artifact": {
-            "size": 338,
+            "size": 349,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/structurify/structurify_backup_2025-06-19_00-55-23.json",
-            "MD5": "87bc03a98481dfdc7c42cd681308828a",
+            "MD5": "e5577759dca8b652c8cea8d49542634e",
             "path": "config/structurify/structurify_backup_2025-06-19_00-55-23.json"
           }
         },
@@ -7936,9 +7903,9 @@
           "name": "structurify.json",
           "type": "File",
           "artifact": {
-            "size": 944,
+            "size": 980,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/structurify.json",
-            "MD5": "b945a37a4a0d4faa62afb30bd3b55418",
+            "MD5": "9a12f1dce3494748d11d3856be615455",
             "path": "config/structurify.json"
           }
         },
@@ -7947,9 +7914,9 @@
           "name": "structurify_dump.json",
           "type": "File",
           "artifact": {
-            "size": 266224,
+            "size": 275262,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/structurify_dump.json",
-            "MD5": "6dfac3ef592a6c3130fdf57c52a80185",
+            "MD5": "26b38f91534c44794eb4865607100936",
             "path": "config/structurify_dump.json"
           }
         },
@@ -8031,6 +7998,17 @@
           }
         },
         {
+          "id": "TerramityCommonConfig.toml",
+          "name": "TerramityCommonConfig.toml",
+          "type": "File",
+          "artifact": {
+            "size": 930,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/TerramityCommonConfig.toml",
+            "MD5": "36ea8996b592c99395c5675da436fb70",
+            "path": "config/TerramityCommonConfig.toml"
+          }
+        },
+        {
           "id": "torchmaster.toml",
           "name": "torchmaster.toml",
           "type": "File",
@@ -8046,9 +8024,9 @@
           "name": "structure_enable_or_disable_new.json5",
           "type": "File",
           "artifact": {
-            "size": 3088,
+            "size": 3175,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/towns_and_towers/structure_enable_or_disable_new.json5",
-            "MD5": "ecc5bd16196f2444973f484b12dc5c05",
+            "MD5": "77b64d0d6ed94201a2d9bad14e6d0a2d",
             "path": "config/towns_and_towers/structure_enable_or_disable_new.json5"
           }
         },
@@ -8057,9 +8035,9 @@
           "name": "structure_rarity_new.json5",
           "type": "File",
           "artifact": {
-            "size": 1581,
+            "size": 1623,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/towns_and_towers/structure_rarity_new.json5",
-            "MD5": "c6a035471eec8cacfae8998dcd343d34",
+            "MD5": "ab1381ac9d7a3e25fd992a1dc7f0f509",
             "path": "config/towns_and_towers/structure_rarity_new.json5"
           }
         },
@@ -8251,6 +8229,17 @@
           }
         },
         {
+          "id": "WalkieTalkie.properties",
+          "name": "WalkieTalkie.properties",
+          "type": "File",
+          "artifact": {
+            "size": 447,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/WalkieTalkie.properties",
+            "MD5": "0af7b95cf9e13a437e2fb54c13c48d91",
+            "path": "config/WalkieTalkie.properties"
+          }
+        },
+        {
           "id": "waterframes-client.toml",
           "name": "waterframes-client.toml",
           "type": "File",
@@ -8299,10 +8288,21 @@
           "name": "yacl.json5",
           "type": "File",
           "artifact": {
-            "size": 35,
+            "size": 37,
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/yacl.json5",
-            "MD5": "81d542abb72c4750c7218e0d975e3368",
+            "MD5": "0036b155a88e09ab9156d20c87a3b741",
             "path": "config/yacl.json5"
+          }
+        },
+        {
+          "id": "YungsCaveBiomes-forge-1_20_1.toml",
+          "name": "YungsCaveBiomes-forge-1_20_1.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2622,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/config/YungsCaveBiomes-forge-1_20_1.toml",
+            "MD5": "81537a9df962b8d2e0f5c44e95f3752e",
+            "path": "config/YungsCaveBiomes-forge-1_20_1.toml"
           }
         },
         {
@@ -8325,17 +8325,6 @@
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/datapacks/idasconfig-1.11.2-1.20.1.zip",
             "MD5": "128401d50d33cfe705ce538d512bd5cb",
             "path": "datapacks/idasconfig-1.11.2-1.20.1.zip"
-          }
-        },
-        {
-          "id": "Quark Programmer Art.zip",
-          "name": "Quark Programmer Art.zip",
-          "type": "File",
-          "artifact": {
-            "size": 266434,
-            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
-            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
-            "path": "resourcepacks/Quark Programmer Art.zip"
           }
         },
         {
@@ -8369,6 +8358,17 @@
             "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/resourcepacks/idasconfig-1.12.0-1.20.1.zip",
             "MD5": "c9e2ed826775da3963aa3f730db14611",
             "path": "resourcepacks/idasconfig-1.12.0-1.20.1.zip"
+          }
+        },
+        {
+          "id": "Quark Programmer Art.zip",
+          "name": "Quark Programmer Art.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266434,
+            "url": "http://mushroomsmp.github.io/servers/MushroomSMP-MSMP-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
+            "path": "resourcepacks/Quark Programmer Art.zip"
           }
         }
       ]
