@@ -11,7 +11,7 @@
       "id": "MushroomSMP-MSMP-1.20.1",
       "name": "MushroomSMP-MSMP (Minecraft 1.20.1)",
       "description": "MushroomSMP-MSMP Running Minecraft 1.20.1 (Forge v47.4.4)",
-      "icon": null,
+      "icon": "https://i.imgur.com/4S8fjKg.png",
       "version": "1.0.0",
       "address": "elgae-sp1-19.elgaehost.com.br:25708",
       "minecraftVersion": "1.20.1",
