@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "MushroomSMP-MSMP (Minecraft 1.20.1)",
     "description": "MushroomSMP-MSMP Running Minecraft 1.20.1 (Forge v47.4.4)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "https://i.imgur.com/4S8fjKg.png",
     "address": "elgae-sp1-19.elgaehost.com.br:25708",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
