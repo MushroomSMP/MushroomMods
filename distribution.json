@@ -8377,9 +8377,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 102,
+            "size": 86,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/servers.dat",
-            "MD5": "d96ea0e3a7f5d8717e6f59d73dbad323",
+            "MD5": "56c55f9ad18963c985f6361b6efe90a1",
             "path": "servers.dat"
           }
         },
