@@ -963,6 +963,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:connectedglass:1.1.14@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 873714,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/connectedglass-1.1.14-forge-mc1.20.1.jar",
+            "MD5": "7b7a482c48dc0e76120f0bd91af1e01a"
+          }
+        },
+        {
           "id": "com.connectivity:connectivity:1.20.1-7.1@jar",
           "name": "Connectivity Mod",
           "type": "ForgeMod",
@@ -1120,16 +1130,6 @@
             "size": 248658,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/create-mob-spawners-1.20.1-3.0.0.jar",
             "MD5": "c37d83380b46027aa332f9d7bdf25f42"
-          }
-        },
-        {
-          "id": "fr.iglee42:createcasing:1.7.2-fix1@jar",
-          "name": "Create Encased",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2020171,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Create%20Encased-1.20.1-1.7.2-fix1.jar",
-            "MD5": "9514edf0a2685ba785e767de0d7ce36a"
           }
         },
         {
@@ -1613,13 +1613,13 @@
           }
         },
         {
-          "id": "com.supermartijn642:fusion:1.2.8+a@jar",
+          "id": "com.supermartijn642:fusion:1.2.9@jar",
           "name": "Fusion",
           "type": "ForgeMod",
           "artifact": {
-            "size": 541898,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/fusion-1.2.8a-forge-mc1.20.1.jar",
-            "MD5": "bc3e0bd33fa208e93ee275ba1f2a5937"
+            "size": 542553,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/fusion-1.2.9-forge-mc1.20.1.jar",
+            "MD5": "0fa7a1d6d9d945d1bae8effa8f8b4e16"
           }
         },
         {
@@ -1733,16 +1733,6 @@
           }
         },
         {
-          "id": "com.craisinlord:idas:1.12.0+1.20.1@jar",
-          "name": "Integrated Dungeons and Structures",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14290996,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/idas_forge-1.12.0+1.20.1.jar",
-            "MD5": "ce0be70792030d3b95a04dbf172c5d67"
-          }
-        },
-        {
           "id": "net.raphimc:immediatelyfast:1.5.1+1.20.4@jar",
           "name": "ImmediatelyFast",
           "type": "ForgeMod",
@@ -1790,16 +1780,6 @@
             "size": 1630186,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/infinitybuttons-1.20.1-4.0.7.jar",
             "MD5": "30645052ea8130b39424ad8dbec3cefe"
-          }
-        },
-        {
-          "id": "com.craisinlord:integrated_api:1.5.3+1.20.1-forge@jar",
-          "name": "Integrated API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 689843,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/integrated_api-1.5.3+1.20.1-forge.jar",
-            "MD5": "aecb1890784e202322b1a863f34f9f30"
           }
         },
         {
@@ -2230,6 +2210,16 @@
             "size": 1537747,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MOAdecor%20COOKERY%201.20.2.jar",
             "MD5": "57c355d9051835919d1d3be1148a7ad5"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorscience:moa_decor_science:1.20.1@jar",
+          "name": "MOA DECOR: SCIENCE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1040771,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MOAdecor%20SCIENCE%201.20.1.jar",
+            "MD5": "b547bafe316aeac0ad11ad91850931d5"
           }
         },
         {
@@ -2743,13 +2733,13 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.75.1033@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.76.1038@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1333615,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.75.1033.jar",
-            "MD5": "e1fd83e7bfb1cd687d20ad8cd0b89be1"
+            "size": 1333610,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.76.1038.jar",
+            "MD5": "2ca7fdf89130112cdc4a1400d08779fd"
           }
         },
         {
@@ -8328,6 +8318,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 15151,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/options.txt",
+            "MD5": "df485f9cbbaa4dd84ff85a11d5c3dc64",
+            "path": "options.txt"
+          }
+        },
+        {
           "id": "idasalexsmobs-1.20.zip",
           "name": "idasalexsmobs-1.20.zip",
           "type": "File",
@@ -8380,6 +8381,61 @@
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/servers.dat",
             "MD5": "d96ea0e3a7f5d8717e6f59d73dbad323",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.5.1.zip",
+          "name": "ComplementaryReimagined_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456328,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "MD5": "e49c87af1c2bb64337068f6928f06bff",
+            "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.5.1.zip",
+          "name": "ComplementaryUnbound_r5.5.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 456332,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.5.1.zip",
+            "MD5": "576ef06da170458879f3a03e685d487a",
+            "path": "shaderpacks/ComplementaryUnbound_r5.5.1.zip"
+          }
+        },
+        {
+          "id": "Hysteria-Shaders-Universal-v1.2.1.zip",
+          "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1578052,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+            "MD5": "9cd9d2b33532f1774f7465e76b92a4e3",
+            "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip"
+          }
+        },
+        {
+          "id": "Insanity-Shader-Universal-v1.650.zip",
+          "name": "Insanity-Shader-Universal-v1.650.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1037373,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/shaderpacks/Insanity-Shader-Universal-v1.650.zip",
+            "MD5": "97a61aad0133f120e536a420b92d4e88",
+            "path": "shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+          }
+        },
+        {
+          "id": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "name": "Sildur's Vibrant Shaders v1.51 Extreme-VL.zip",
+          "type": "File",
+          "artifact": {
+            "size": 142239,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v1.51%20Extreme-VL.zip",
+            "MD5": "cffbb5d1e720f96358ab2173c72b938a",
+            "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Extreme-VL.zip"
           }
         }
       ]
