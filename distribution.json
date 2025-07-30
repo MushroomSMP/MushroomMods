@@ -2043,6 +2043,16 @@
           }
         },
         {
+          "id": "net.satisfy:meadow:1.3.25@jar",
+          "name": "[Let's Do] Meadow",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2676511,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/letsdo-meadow-forge-1.3.25.jar",
+            "MD5": "3ea594fdc393d588a236d54e870b7789"
+          }
+        },
+        {
           "id": "net.satisfy:vinery:1.4.39@jar",
           "name": "[Let's Do] Vinery",
           "type": "ForgeMod",
@@ -2293,13 +2303,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.0.3@jar",
+          "id": "net.msmp.mod:msmpmod:1.0.4@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 318585,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.3.jar",
-            "MD5": "4a6c4e76acfdbd276c2ac38c9f001c26"
+            "size": 318529,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.4.jar",
+            "MD5": "8471625ee2fdec794e181b3474da76c1"
           }
         },
         {
