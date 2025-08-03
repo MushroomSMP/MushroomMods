@@ -1273,13 +1273,13 @@
           }
         },
         {
-          "id": "com.skydude:dacxirons:1.4-1.20.1@jar",
+          "id": "com.skydude:dacxirons:1.4fix-1.20.1@jar",
           "name": "Dacxirons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 183059,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dacxirons-1.4-1.20.1.jar",
-            "MD5": "85ffefbdf58c90f4b6963d6b67fffcc3"
+            "size": 183917,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dacxirons-1.4fix-1.20.1.jar",
+            "MD5": "fcc33a6ea201682fe0cebe3e19ff2772"
           }
         },
         {
@@ -2243,6 +2243,16 @@
           }
         },
         {
+          "id": "net.mcreator.mobmsmp:mob_msmp:1.0.0@jar",
+          "name": "Mob MSMP",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 311254,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mob_msmp-1.0.0.jar",
+            "MD5": "3b5a391ab90ffa4b7a5bf4cd2d616344"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.3+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -2303,13 +2313,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.0.4@jar",
+          "id": "net.msmp.mod:msmpmod:1.0.5@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 318529,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.4.jar",
-            "MD5": "8471625ee2fdec794e181b3474da76c1"
+            "size": 334284,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.5.jar",
+            "MD5": "224c7f12a903127d39ec4b69b6111e11"
           }
         },
         {
