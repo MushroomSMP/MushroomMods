@@ -933,16 +933,6 @@
           }
         },
         {
-          "id": "net.combatroll:combatroll:1.3.3+1.20.1@jar",
-          "name": "Combat Roll",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 217962,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/combatroll-forge-1.3.3+1.20.1.jar",
-            "MD5": "ad3316d461ca579585df7507ac789d85"
-          }
-        },
-        {
           "id": "com.mrcrayfish:configured:2.2.3@jar",
           "name": "Configured",
           "type": "ForgeMod",
@@ -1613,6 +1603,46 @@
           }
         },
         {
+          "id": "dev.ftb.mods:ftbchunks:2001.3.6@jar",
+          "name": "FTB Chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158842,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/ftb-chunks-forge-2001.3.6.jar",
+            "MD5": "64af750c0cbcadd4b27fb58236654814"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.10@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 791875,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/ftb-library-forge-2001.2.10.jar",
+            "MD5": "ae5292127a5a0d85d793bbce8f1e24dd"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbquests:2001.4.14@jar",
+          "name": "FTB Quests",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1222711,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/ftb-quests-forge-2001.4.14.jar",
+            "MD5": "a02b8885bc618a54f41885ddb24e2d8f"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbteams:2001.3.1@jar",
+          "name": "FTB Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 248592,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/ftb-teams-forge-2001.3.1.jar",
+            "MD5": "98efb58ba7cecfb39034544eced0389f"
+          }
+        },
+        {
           "id": "com.supermartijn642:fusion:1.2.9@jar",
           "name": "Fusion",
           "type": "ForgeMod",
@@ -2103,16 +2133,6 @@
           }
         },
         {
-          "id": "mcjty.lostcities:lostcities:1.20-7.4.0@jar",
-          "name": "LostCities",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1238975,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/lostcities-1.20-7.4.0.jar",
-            "MD5": "54584cfb2bb8818a3aac70eadcf3c79b"
-          }
-        },
-        {
           "id": "net.marblednull:marbledsarsenal:2.3.0.3@jar",
           "name": "Marbled's Arsenal",
           "type": "ForgeMod",
@@ -2247,9 +2267,9 @@
           "name": "Mob MSMP",
           "type": "ForgeMod",
           "artifact": {
-            "size": 311254,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mob_msmp-1.0.0.jar",
-            "MD5": "3b5a391ab90ffa4b7a5bf4cd2d616344"
+            "size": 311253,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mob_msmp-1.0.1.jar",
+            "MD5": "1459feb70681541fb0eeea0e8f739b8c"
           }
         },
         {
@@ -2313,13 +2333,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.0.6@jar",
+          "id": "net.msmp.mod:msmpmod:1.0.7@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 338374,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.6.jar",
-            "MD5": "3e3cbd5a7702eeae9ecd2d6edcaabccd"
+            "size": 347497,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.7.jar",
+            "MD5": "01f440ba45924e4791278ef071e9a687"
           }
         },
         {
@@ -2500,6 +2520,16 @@
             "size": 178633,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/playingcards-2.0.1.jar",
             "MD5": "e1623a327b8b5e24e9450c3a3e1a99cc"
+          }
+        },
+        {
+          "id": "gripe._90:polyeng:0.1.1-1.20.1@jar",
+          "name": "Polymorphic Energistics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15469,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/polyeng-forge-0.1.1-1.20.1.jar",
+            "MD5": "349077f0a8708744a918ea7f945d6534"
           }
         },
         {
