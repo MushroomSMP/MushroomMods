@@ -2267,9 +2267,9 @@
           "name": "Mob MSMP",
           "type": "ForgeMod",
           "artifact": {
-            "size": 311253,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mob_msmp-1.0.1.jar",
-            "MD5": "1459feb70681541fb0eeea0e8f739b8c"
+            "size": 319358,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mob_msmp-1.0.2.jar",
+            "MD5": "59d8fa6125cc33f1979b76434a08116a"
           }
         },
         {
