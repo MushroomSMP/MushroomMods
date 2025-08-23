@@ -1803,6 +1803,16 @@
           }
         },
         {
+          "id": "mcjty.incontrol:incontrol:1.20-9.3.3@jar",
+          "name": "InControl",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 340593,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/incontrol-1.20-9.3.3.jar",
+            "MD5": "aeaf791a9112a3091a3fadc771d49e70"
+          }
+        },
+        {
           "id": "net.larsmans:infinitybuttons:1.20.1-4.0.7@jar",
           "name": "Infinity Buttons",
           "type": "ForgeMod",
@@ -2333,13 +2343,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.0.9@jar",
+          "id": "net.msmp.mod:msmpmod:1.1@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 432323,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.0.9.jar",
-            "MD5": "78a0f73fb901b5426bd01d3d15c8c123"
+            "size": 436607,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.jar",
+            "MD5": "65b5f36222b7c7f7ee36399b0fdfc45d"
           }
         },
         {
