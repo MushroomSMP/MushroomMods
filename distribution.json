@@ -2303,13 +2303,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.1@jar",
+          "id": "net.msmp.mod:msmpmod:1.1.1@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 436607,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.jar",
-            "MD5": "65b5f36222b7c7f7ee36399b0fdfc45d"
+            "size": 436566,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.1.jar",
+            "MD5": "7f09fd9b11c268efac0cbeaf5d7d9b11"
           }
         },
         {
