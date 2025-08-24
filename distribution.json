@@ -1123,6 +1123,16 @@
           }
         },
         {
+          "id": "com.moepus:createbetterfps:1.1.1@jar",
+          "name": "CreateBetterFps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 24819,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/createbetterfps-1.20.1-1.1.1.jar",
+            "MD5": "36f7928d52a27109536bcd5a21f5214d"
+          }
+        },
+        {
           "id": "com.github.talrey:createdeco:2.0.3-1.20.1-forge@jar",
           "name": "Create Deco",
           "type": "ForgeMod",
