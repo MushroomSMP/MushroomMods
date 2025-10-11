@@ -3033,13 +3033,13 @@
           }
         },
         {
-          "id": "com.gametechbc:traveloptics:5.4.6-1.20.1@jar",
+          "id": "com.gametechbc:traveloptics:5.5.0-1.20.1@jar",
           "name": "T.O Magic 'n Extras",
           "type": "ForgeMod",
           "artifact": {
-            "size": 26919323,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/traveloptics-5.4.6-1.20.1.jar",
-            "MD5": "bb12a044ff0e5d06cf4c60cff35522c0"
+            "size": 26833306,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/traveloptics-5.5.0-1.20.1.jar",
+            "MD5": "b2e0538ec525c4858b91ff3e8b810f53"
           }
         },
         {
