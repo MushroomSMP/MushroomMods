@@ -1013,6 +1013,16 @@
           }
         },
         {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64187,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          }
+        },
+        {
           "id": "de.maxhenkel:corpse:1.20.1-1.0.21@jar",
           "name": "Corpse",
           "type": "ForgeMod",
@@ -1190,6 +1200,16 @@
             "size": 431318,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
             "MD5": "b52e8b225a34abab9300049c85f6855a"
+          }
+        },
+        {
+          "id": "com.github.eterdelta:crittersandcompanions:1.20.1-2.3.2@jar",
+          "name": "Critters and Companions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1552466,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/crittersandcompanions-forge-1.20.1-2.3.2.jar",
+            "MD5": "a087cc0a1ce2d158ff03549073fd10fc"
           }
         },
         {
@@ -1663,6 +1683,26 @@
           }
         },
         {
+          "id": "software.bernie.example:geckolib:4.8.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1038979,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.2.jar",
+            "MD5": "d1ff73da16b6fc163d6c5ed3d9734dde"
+          }
+        },
+        {
+          "id": "com.cstav:genshinstrument:5.0@jar",
+          "name": "Genshin Instruments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7062280,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/genshinstrument-1.20-1.20.1-5.0.jar",
+            "MD5": "edcefbb07d989f794ace51f0932c532c"
+          }
+        },
+        {
           "id": "com.gpumemleakfix:gpumemleakfix:1.20.1-1.8@jar",
           "name": "Gpu memory leak fix",
           "type": "ForgeMod",
@@ -2103,6 +2143,16 @@
           }
         },
         {
+          "id": "me.xjqsh.lesraisinsarmor:lrarmor:0.1.4.3@jar",
+          "name": "LesRaisinsArmor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 887099,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/lrarmor-1.20.1-0.1.4.3.jar",
+            "MD5": "915a633e24714a1dd6dd7f8f81ccd3bd"
+          }
+        },
+        {
           "id": "net.marblednull:marbledsarsenal:2.3.0.3@jar",
           "name": "Marbled's Arsenal",
           "type": "ForgeMod",
@@ -2253,6 +2303,16 @@
           }
         },
         {
+          "id": "com.corosus.mobtimizations.loader:mobtimizations:1.20.1-1.0.0@jar",
+          "name": "Mobtimizations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22739,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mobtimizations-forge-1.20.1-1.0.0.jar",
+            "MD5": "c87de807d1d922fa950103485ed95337"
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.3+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -2320,6 +2380,16 @@
             "size": 436566,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.1.jar",
             "MD5": "7f09fd9b11c268efac0cbeaf5d7d9b11"
+          }
+        },
+        {
+          "id": "net.petemc:mutantszombies:1.1.0-Forge-mc1.20.1@jar",
+          "name": "Mutants and Zombies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 498403,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MutantsZombies-1.1.0-Forge-mc1.20.1.jar",
+            "MD5": "ac08d3672dbe26a14fad010c449be1da"
           }
         },
         {
@@ -2460,6 +2530,16 @@
             "size": 431615,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/pipez-forge-1.20.1-1.2.26.jar",
             "MD5": "1af664d7782630bebc8358a72fea4779"
+          }
+        },
+        {
+          "id": "com.tiviacz:pizzacraft:7.0.8@jar",
+          "name": "PizzaCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 539247,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/pizzacraft-1.20.1-7.0.8.jar",
+            "MD5": "5a04b143d6dfb760a39f7d91c05c2d02"
           }
         },
         {
@@ -2733,6 +2813,16 @@
           }
         },
         {
+          "id": "net.tslat:smartbrainlib:1.15@jar",
+          "name": "SmartBrainLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 362338,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
+          }
+        },
+        {
           "id": "com.smoothchunk:smoothchunk:1.20.1-4.1@jar",
           "name": "Smoothchunk mod",
           "type": "ForgeMod",
@@ -2830,6 +2920,26 @@
             "size": 13623263,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/supplementaries-1.20-3.1.36.jar",
             "MD5": "98178d688af6bedcd5730d592c7dca6d"
+          }
+        },
+        {
+          "id": "net.mcreator.survivalinstinct:survival_instinct:1.0.1@jar",
+          "name": "Survival Instinct",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1691940,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/survival_instinct-1.0.1-forge-1.20.1.jar",
+            "MD5": "54a68ad552f1f5b03dc9b2a6f1b3840d"
+          }
+        },
+        {
+          "id": "com.corrinedev.tacznpcs:tacz_npc:1.0.0@jar",
+          "name": "[Tacz] NPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 405098,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/tacz_npc-1.2.0.jar",
+            "MD5": "bb6dcefb2f443aee5ed13a5550aba6f3"
           }
         },
         {
@@ -2940,6 +3050,16 @@
             "size": 8337747,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Trials-2.3.3.jar",
             "MD5": "af46de5d7e2cad2edb8d6873e51aba08"
+          }
+        },
+        {
+          "id": "net.aurelj:underground_bunkers:1.0.5@jar",
+          "name": "Underground Bunkers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642308,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/UndergroundBunkers-1.0.5-1.20.x-forge.jar",
+            "MD5": "fda5518748fd53a2cc96e3373be43227"
           }
         },
         {
