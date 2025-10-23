@@ -493,13 +493,13 @@
           }
         },
         {
-          "id": "dev.uncandango:alltheleaks:1.0.7+1.20.1-forge@jar",
+          "id": "dev.uncandango:alltheleaks:1.0.8+1.20.1-forge@jar",
           "name": "All The Leaks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1173400,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/alltheleaks-1.0.7+1.20.1-forge.jar",
-            "MD5": "ffc2303052d097bf8384e07f392c3f8c"
+            "size": 1176184,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/alltheleaks-1.0.8+1.20.1-forge.jar",
+            "MD5": "4d96599f1bbe8d03540a1066509dc005"
           }
         },
         {
@@ -2277,6 +2277,16 @@
           }
         },
         {
+          "id": "net.mcreator.moadecorholidays:moa_decor_holidays:1.20.1@jar",
+          "name": "MOA DECOR: HOLIDAYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1189873,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MOAdecor%20HOLIDAYS%201.20.1.jar",
+            "MD5": "01a07c08f01af2809356d3a128eb154c"
+          }
+        },
+        {
           "id": "net.mcreator.moadecorscience:moa_decor_science:1.20.1@jar",
           "name": "MOA DECOR: SCIENCE",
           "type": "ForgeMod",
@@ -2377,13 +2387,13 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.1.1@jar",
+          "id": "net.msmp.mod:msmpmod:1.1.2@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 436566,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.1.jar",
-            "MD5": "7f09fd9b11c268efac0cbeaf5d7d9b11"
+            "size": 767186,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.2.jar",
+            "MD5": "70f801f8339c1cf50fcc0b400448fc0d"
           }
         },
         {
