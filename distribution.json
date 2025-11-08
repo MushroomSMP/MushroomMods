@@ -433,13 +433,13 @@
           ]
         },
         {
-          "id": "net.geforcemods:securitycraft:1.10.0.1@jar",
+          "id": "net.geforcemods:securitycraft:1.10.1@jar",
           "name": "SecurityCraft",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4648724,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
-            "MD5": "9ef0bc4940bf472feff9592f528782ea"
+            "size": 4769715,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.1.jar",
+            "MD5": "9299326e13fa4f10c377ea6b26c771f9"
           }
         },
         {
@@ -493,13 +493,13 @@
           }
         },
         {
-          "id": "dev.uncandango:alltheleaks:1.0.8+1.20.1-forge@jar",
+          "id": "dev.uncandango:alltheleaks:1.1.0+1.20.1-forge@jar",
           "name": "All The Leaks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1176184,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/alltheleaks-1.0.8+1.20.1-forge.jar",
-            "MD5": "4d96599f1bbe8d03540a1066509dc005"
+            "size": 1186965,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/alltheleaks-1.1.0+1.20.1-forge.jar",
+            "MD5": "a1284d5c8ee99ba6de078db3b22709c6"
           }
         },
         {
@@ -523,13 +523,13 @@
           }
         },
         {
-          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.2@jar",
+          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.4@jar",
           "name": "Another Furniture",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2425050,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.2.jar",
-            "MD5": "4ea0e6533aedbeb5679fd46aa039cbda"
+            "size": 2463633,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.4.jar",
+            "MD5": "cc1fc7aaac4322d79446e3b5243cfe70"
           }
         },
         {
@@ -553,13 +553,13 @@
           }
         },
         {
-          "id": "appeng.core:ae2:15.4.8@jar",
+          "id": "appeng.core:ae2:15.4.10@jar",
           "name": "Applied Energistics 2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8423946,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/appliedenergistics2-forge-15.4.8.jar",
-            "MD5": "e28849db78ba5ec3c9e5776e6c43a2ba"
+            "size": 8495956,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/appliedenergistics2-forge-15.4.10.jar",
+            "MD5": "69e47ebd80184d34176cebeb6233a234"
           }
         },
         {
@@ -743,13 +743,13 @@
           }
         },
         {
-          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7.2@jar",
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7.3@jar",
           "name": "Born in Chaos ",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11816101,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
-            "MD5": "53c0274da230c0b83864a8f1043d0a60"
+            "size": 11824309,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.3.jar",
+            "MD5": "defb8c63b2508befc7046db2b87ddf14"
           }
         },
         {
@@ -903,13 +903,13 @@
           }
         },
         {
-          "id": "net.mcreator.clutteredmod:luphieclutteredmod:2.1@jar",
+          "id": "net.redchujelly:cluttered:3.0.2-1.20.1@jar",
           "name": "Cluttered",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6002846,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
-            "MD5": "359422bfdb492eada7067f41db746cff"
+            "size": 5552095,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/cluttered-[Forge]-3.0.2-1.20.1.jar",
+            "MD5": "add9f9eab965fa630166f4ce8b7766e0"
           }
         },
         {
@@ -1063,13 +1063,13 @@
           }
         },
         {
-          "id": "com.hlysine:create_connected:1.1.7-mc1.20.1@jar",
+          "id": "com.hlysine:create_connected:1.1.8-mc1.20.1@jar",
           "name": "Create: Connected",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6564769,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/create_connected-1.1.7-mc1.20.1-all.jar",
-            "MD5": "e93f6fb95b0ff356b5f7af4ddd15b828"
+            "size": 6566812,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/create_connected-1.1.8-mc1.20.1-all.jar",
+            "MD5": "9fd6a9af3f41823394fb1e39d0f40086"
           }
         },
         {
@@ -1093,13 +1093,13 @@
           }
         },
         {
-          "id": "com.simibubi:create:6.0.6@jar",
+          "id": "com.simibubi:create:6.0.8@jar",
           "name": "Create",
           "type": "ForgeMod",
           "artifact": {
-            "size": 18764522,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
-            "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+            "size": 19170905,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/create-1.20.1-6.0.8.jar",
+            "MD5": "6ebc5c57638c1678359eac65b924c310"
           }
         },
         {
@@ -1203,13 +1203,13 @@
           }
         },
         {
-          "id": "com.github.eterdelta:crittersandcompanions:1.20.1-2.3.2@jar",
+          "id": "com.github.eterdelta:crittersandcompanions:1.20.1-2.3.5@jar",
           "name": "Critters and Companions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1552466,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/crittersandcompanions-forge-1.20.1-2.3.2.jar",
-            "MD5": "a087cc0a1ce2d158ff03549073fd10fc"
+            "size": 1594359,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/crittersandcompanions-forge-1.20.1-2.3.5.jar",
+            "MD5": "758bf538d42daea117e2d7fd51e7e29a"
           }
         },
         {
@@ -1263,23 +1263,23 @@
           }
         },
         {
-          "id": "com.tom:cpm:0.6.24a@jar",
+          "id": "com.tom:cpm:0.6.25a@jar",
           "name": "Customizable Player Models",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2789531,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.24a.jar",
-            "MD5": "c40ffe3dc5e56d2c20ae0797be7ba67b"
+            "size": 2792497,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.25a.jar",
+            "MD5": "1131bc0fdee0eb51087955822128b271"
           }
         },
         {
-          "id": "com.skydude:dacxirons:1.4fix-1.20.1@jar",
+          "id": "com.skydude:dacxirons:1.5.2@jar",
           "name": "Dacxirons",
           "type": "ForgeMod",
           "artifact": {
-            "size": 183917,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dacxirons-1.4fix-1.20.1.jar",
-            "MD5": "fcc33a6ea201682fe0cebe3e19ff2772"
+            "size": 412131,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dacxirons-1.5.2.jar",
+            "MD5": "9648e3242846aaebbb6705599ebd461a"
           }
         },
         {
@@ -1343,13 +1343,13 @@
           }
         },
         {
-          "id": "net.mcreator.dungeonsandcombat:dungeons_and_combat:1.2.3@jar",
+          "id": "net.mcreator.dungeonsandcombat:dungeons_and_combat:1.2.4@jar",
           "name": "Dungeons and combat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12488348,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dungeons_and_combat-1.2.3-forge-1.20.1.jar",
-            "MD5": "c11488a78d31c65a34e0fe4027f4a56e"
+            "size": 12598772,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+            "MD5": "c97309697939831d873c5361b5782918"
           }
         },
         {
@@ -1463,13 +1463,13 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.9.0@jar",
+          "id": "dev.tr7zw:entityculling:1.9.3@jar",
           "name": "EntityCulling",
           "type": "ForgeMod",
           "artifact": {
-            "size": 476106,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/entityculling-forge-1.9.0-mc1.20.1.jar",
-            "MD5": "0cdd1b71e0293a48fb538cc1c489f21c"
+            "size": 477884,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/entityculling-forge-1.9.3-mc1.20.1.jar",
+            "MD5": "ae4f74f187b64f3b107e97b949e4a9e8"
           }
         },
         {
@@ -1717,13 +1717,13 @@
           }
         },
         {
-          "id": "guideme:guideme:20.1.13@jar",
+          "id": "guideme:guideme:20.1.14@jar",
           "name": "GuideME",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9413127,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/guideme-20.1.13.jar",
-            "MD5": "a199ad6408eb99d710db01f4705a6e73"
+            "size": 9413204,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/guideme-20.1.14.jar",
+            "MD5": "6425ddca1593d7f73c7160e54333cfef"
           }
         },
         {
@@ -1927,13 +1927,13 @@
           }
         },
         {
-          "id": "com.christofmeg:justenoughbreeding:2.2.1@jar",
+          "id": "com.christofmeg:justenoughbreeding:2.3.0@jar",
           "name": "Just Enough Breeding",
           "type": "ForgeMod",
           "artifact": {
-            "size": 399969,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/justenoughbreeding-forge-1.20-1.20.1-2.2.1.jar",
-            "MD5": "08cbb71deaafb89a665b5d72298cbcdf"
+            "size": 450540,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/justenoughbreeding-forge-1.20-1.20.1-2.3.0.jar",
+            "MD5": "ee04533ce9eb39a69cef8b0ab9bd4ed0"
           }
         },
         {
@@ -2147,6 +2147,16 @@
           }
         },
         {
+          "id": "me.xjqsh:lradd:0.3.0@jar",
+          "name": "LesRaisinsAddon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42492650,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/lradd-1.20.1-0.3.0.jar",
+            "MD5": "a3710d72c75c24b8235142061f9e217c"
+          }
+        },
+        {
           "id": "me.xjqsh.lesraisinsarmor:lrarmor:0.1.4.3@jar",
           "name": "LesRaisinsArmor",
           "type": "ForgeMod",
@@ -2154,6 +2164,16 @@
             "size": 887099,
             "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/lrarmor-1.20.1-0.1.4.3.jar",
             "MD5": "915a633e24714a1dd6dd7f8f81ccd3bd"
+          }
+        },
+        {
+          "id": "me.xjqsh:lrtactical:0.3.0@jar",
+          "name": "LesRaisins Tactical Equipments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5193935,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/lrtactical-1.20.1-0.3.0.jar",
+            "MD5": "73f94347bbc9050c0a28cb9aff3c3d26"
           }
         },
         {
@@ -2197,13 +2217,13 @@
           }
         },
         {
-          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.4.0@jar",
           "name": "Macaw's Furniture",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1882792,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
-            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+            "size": 2170882,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/mcw-furniture-3.4.0-mc1.20.1forge.jar",
+            "MD5": "4e425eb036d1ab5ef673a3b68aa1e60b"
           }
         },
         {
@@ -2327,33 +2347,33 @@
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.4+mc1.20.1@jar",
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.25.0+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 880557,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/modernfix-forge-5.24.4+mc1.20.1.jar",
-            "MD5": "1d729a283f14fdbf1021ff4f0c88b0ec"
+            "size": 897884,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/modernfix-forge-5.25.0+mc1.20.1.jar",
+            "MD5": "d1a8a868063a5309cd17700105e7a521"
           }
         },
         {
-          "id": "com.dairymoose.modernlife.core:modernlife:1.20.1-1.76@jar",
+          "id": "com.dairymoose.modernlife.core:modernlife:1.20.1-1.77@jar",
           "name": "Modern Life",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4291763,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/modernlife-1.20.1-1.76.jar",
-            "MD5": "64797361a330f44543bbd108dd71664f"
+            "size": 4292380,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/modernlife-1.20.1-1.77.jar",
+            "MD5": "12f842ecf1f01b746fcedb67ce307e77"
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.14@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.16@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1333892,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/moonlight-1.20-2.16.14-forge.jar",
-            "MD5": "db089c7230678965aa22cf7ba0049462"
+            "size": 1333455,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/moonlight-1.20-2.16.16-forge.jar",
+            "MD5": "cc2852f794f2a3bb835c6507d8276dc4"
           }
         },
         {
@@ -2387,23 +2407,23 @@
           }
         },
         {
-          "id": "net.msmp.mod:msmpmod:1.1.2@jar",
+          "id": "net.msmp.mod:msmpmod:1.1.3@jar",
           "name": "MSMP MOD",
           "type": "ForgeMod",
           "artifact": {
-            "size": 767186,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.2.jar",
-            "MD5": "70f801f8339c1cf50fcc0b400448fc0d"
+            "size": 669279,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/msmpmod-1.1.3.jar",
+            "MD5": "e57f5c017d9895dcf0c7b7d405ed4c29"
           }
         },
         {
-          "id": "net.petemc:mutantszombies:1.1.0-Forge-mc1.20.1@jar",
+          "id": "net.petemc:mutantszombies:1.3.1-Forge-mc1.20.1@jar",
           "name": "Mutants and Zombies",
           "type": "ForgeMod",
           "artifact": {
-            "size": 498403,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MutantsZombies-1.1.0-Forge-mc1.20.1.jar",
-            "MD5": "ac08d3672dbe26a14fad010c449be1da"
+            "size": 453275,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/MutantsZombies-1.3.1-Forge-mc1.20.1.jar",
+            "MD5": "5acc7bf0fe317a2b296a766f0d84f3bc"
           }
         },
         {
@@ -2467,23 +2487,23 @@
           }
         },
         {
-          "id": "net.potionstudios:biomeswevegone:1.6.6@jar",
+          "id": "net.potionstudios:biomeswevegone:1.7.0@jar",
           "name": "Oh The Biomes We've Gone",
           "type": "ForgeMod",
           "artifact": {
-            "size": 18682341,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.6.6.jar",
-            "MD5": "0c5bcf5d8f3a2364fe7d5e7d8d84b5a1"
+            "size": 18662994,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.7.0.jar",
+            "MD5": "834bac9d6d3246860d650c03733672a6"
           }
         },
         {
-          "id": "dev.corgitaco:ohthetreesyoullgrow:1.4.0@jar",
+          "id": "dev.corgitaco:ohthetreesyoullgrow:1.4.2@jar",
           "name": "Oh The Trees You'll Grow",
           "type": "ForgeMod",
           "artifact": {
-            "size": 140819,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.0.jar",
-            "MD5": "4adbc6ce25852be92141f7e70f8fc503"
+            "size": 140928,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.4.2.jar",
+            "MD5": "48c0ad8fdaa8a05369e2fb959d4b9966"
           }
         },
         {
@@ -2707,13 +2727,13 @@
           }
         },
         {
-          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.14@jar",
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.20@jar",
           "name": "MrCrayfish's Furniture Mod: Refurbished",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6686700,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.14.jar",
-            "MD5": "cf49bb5867f7d060b82fc143e2ca0201"
+            "size": 6689588,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+            "MD5": "53bf35be2dc746e3fd7805a4e63a46a6"
           }
         },
         {
@@ -2747,13 +2767,13 @@
           }
         },
         {
-          "id": "io.github.mortuusars:scholar:1.1.5.1@jar",
+          "id": "io.github.mortuusars:scholar:1.1.9@jar",
           "name": "Scholar",
           "type": "ForgeMod",
           "artifact": {
-            "size": 680674,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/scholar-1.20.1-1.1.5.1-forge.jar",
-            "MD5": "19c046483090a4f30e509857082d5154"
+            "size": 692365,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/scholar-1.20.1-1.1.9-forge.jar",
+            "MD5": "80d36c35caeb0087f3f4e0175ce9f94c"
           }
         },
         {
@@ -2847,33 +2867,33 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.24.9.1391@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.24.12.1411@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 970980,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.24.9.1391.jar",
-            "MD5": "7b5cda6c1fa78f5e3f9a0ee20b6cf59a"
+            "size": 973366,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar",
+            "MD5": "a2d81606c31421d45aa3518e5471f154"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.105.1230@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.107.1240@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1438971,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.105.1230.jar",
-            "MD5": "dd6da65a828b4f67d4f80b883d65d962"
+            "size": 1438965,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.107.1240.jar",
+            "MD5": "fbc7db24a060b7cbe715013b071d604f"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedstorage:1.4.11.1344@jar",
+          "id": "net.p3pp3rf1y:sophisticatedstorage:1.4.15.1362@jar",
           "name": "Sophisticated Storage",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1672144,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.4.11.1344.jar",
-            "MD5": "6bcc592e7a413bbb960b4ef4bacf8566"
+            "size": 1672498,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.4.15.1362.jar",
+            "MD5": "15ab6fdbf6bf4a1d35de4ebca05f23b1"
           }
         },
         {
@@ -3037,13 +3057,13 @@
           }
         },
         {
-          "id": "com.gametechbc:traveloptics:5.5.0-1.20.1@jar",
+          "id": "com.gametechbc:traveloptics:5.7.0-1.20.1@jar",
           "name": "T.O Magic 'n Extras",
           "type": "ForgeMod",
           "artifact": {
-            "size": 26833306,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/traveloptics-5.5.0-1.20.1.jar",
-            "MD5": "b2e0538ec525c4858b91ff3e8b810f53"
+            "size": 27134559,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/traveloptics-5.7.0-1.20.1.jar",
+            "MD5": "44c414283a64937643c55b8d4ea6fd60"
           }
         },
         {
@@ -3067,13 +3087,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.35@jar",
+          "id": "de.maxhenkel.voicechat:voicechat:1.20.1-2.6.6@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8646989,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.35.jar",
-            "MD5": "35334e72794c1b612bb9b2290dd8a27c"
+            "size": 4889296,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.6.6.jar",
+            "MD5": "11832e7cf51d8b058ddde5811188835c"
           }
         },
         {
@@ -3087,13 +3107,13 @@
           }
         },
         {
-          "id": "me.srrapero720:waterframes:2.1.20@jar",
+          "id": "me.srrapero720:waterframes:2.1.22@jar",
           "name": "WaterFrames",
           "type": "ForgeMod",
           "artifact": {
-            "size": 254657,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.20.jar",
-            "MD5": "05bf118cecf2a9a88cb45c24fe35803a"
+            "size": 255481,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+            "MD5": "595a2467900abcdf00b3059c56fc0d0f"
           }
         },
         {
@@ -3147,13 +3167,13 @@
           }
         },
         {
-          "id": "de.z0rdak:yawp:0.6.0-beta1@jar",
+          "id": "de.z0rdak:yawp:0.6.2-beta1@jar",
           "name": "Yet Another World Protector",
           "type": "ForgeMod",
           "artifact": {
-            "size": 656078,
-            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/yawp-1.20.1-forge-0.6.0-beta1.jar",
-            "MD5": "75551ce251b6b364c463d1c43d142fb9"
+            "size": 671673,
+            "url": "http://mushroomsmp.github.io/MushroomMods/servers/MushroomSMP-MSMP-1.20.1/forgemods/required/yawp-1.20.1-forge-0.6.2-beta1.jar",
+            "MD5": "9c69b44b12148358e63e5b21ba781684"
           }
         },
         {
